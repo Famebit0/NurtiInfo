@@ -1,0 +1,39 @@
+{
+    "1713156144599466:66605": {
+        "IFileManager": {
+            "path": "Files/File_1713156144599466_66605"
+        }
+    },
+    "1713156144607722:66609": {
+        "IResourceController": {
+            "name": "Sprite-Logo-2019",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713156144617143:66610",
+            "fileId": "1713156144599466:66605",
+            "originalId": "1713156144617719:66615",
+            "publicId": "1713156144645329:66621",
+            "expected_hash": "89b84028e9146fc61586a1b236527e90"
+        },
+        "IResourceManager": {
+            "uid": "1713156144617143:66610",
+            "name": "Files/File_1713156144599466_66605",
+            "flags": 1
+        }
+    },
+    "1713156144617719:66615": {
+        "IFileManager": {
+            "path": "Files/File_1713156144617719_66615.png"
+        }
+    },
+    "1713156144645329:66621": {
+        "IResourceController": {
+            "public": {
+                "path": "Sprite-Logo-2019.png",
+                "hash": "69ea31e878cb1a7898b303591642e360"
+            }
+        }
+    }
+}

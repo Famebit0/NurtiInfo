@@ -1,0 +1,30 @@
+{
+    "1713158629432260:511172": {
+        "IResourceController": {
+            "name": "Button Text 2",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1713158629432199:511169",
+            "fileId": "1713158629467071:511181",
+            "originalId": "1713159815447266:907423",
+            "expected_hash": "8741a6526af6a5b94474e0e462ada963"
+        },
+        "IResourceManager": {
+            "uid": "1713158629432199:511169",
+            "name": "sceneObject_38",
+            "flags": 0
+        }
+    },
+    "1713158629467071:511181": {
+        "IFileManager": {
+            "path": "Files/File_1713158629467071_511181.oprfb"
+        }
+    },
+    "1713159815447266:907423": {
+        "IFileManager": {
+            "path": "Files/File_1713159815447266_907423.oprfb"
+        }
+    }
+}

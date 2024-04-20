@@ -1,0 +1,39 @@
+{
+    "1713193919424291:3607931": {
+        "IResourceController": {
+            "name": "Popups__PLACE_AT_THE_SCENE_TOP",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713193919423752:3607928",
+            "fileId": "1713193919457989:3607941",
+            "originalId": "1713194253142775:3781903",
+            "publicId": "1713193920283544:3608333",
+            "expected_hash": "54e620d7871e67e3d625a9f84dd15b81"
+        },
+        "IResourceManager": {
+            "uid": "1713193919423752:3607928",
+            "name": "sceneObject_8",
+            "flags": 0
+        }
+    },
+    "1713193919457989:3607941": {
+        "IFileManager": {
+            "path": "Files/File_1713193919457989_3607941.oprfb"
+        }
+    },
+    "1713193920283544:3608333": {
+        "IResourceController": {
+            "public": {
+                "path": "Popups__PLACE_AT_THE_SCENE_TOP.oprfb",
+                "hash": "f69ea14a91038f3a60d449cf6b1a860b"
+            }
+        }
+    },
+    "1713194253142775:3781903": {
+        "IFileManager": {
+            "path": "Files/File_1713194253142775_3781903.oprfb"
+        }
+    }
+}

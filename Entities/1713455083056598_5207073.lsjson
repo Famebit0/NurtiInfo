@@ -1,0 +1,39 @@
+{
+    "1713455082974049:5207064": {
+        "IResourceController": {
+            "public": {
+                "path": "VFX/Materials/3D Fog/Light_rays_back.lsmat",
+                "hash": "8cf2ab1068eecb043b15f76d9b184c93"
+            }
+        }
+    },
+    "1713455083054602:5207072": {
+        "IFileManager": {
+            "path": "Files/File_1713455083054602_5207072"
+        }
+    },
+    "1713455083056598:5207073": {
+        "IResourceController": {
+            "name": "Light_rays_back",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713455083056603:5207074",
+            "fileId": "1713455083054602:5207072",
+            "originalId": "1713455083088512:5207078",
+            "publicId": "1713455082974049:5207064",
+            "expected_hash": "d1c48ffa1c5d951a4d19f44682f46a7f"
+        },
+        "IResourceManager": {
+            "uid": "1713455083056603:5207074",
+            "name": "Files/File_1713455083054602_5207072",
+            "flags": 1
+        }
+    },
+    "1713455083088512:5207078": {
+        "IFileManager": {
+            "path": "Files/File_1713455083088512_5207078.lsmat"
+        }
+    }
+}

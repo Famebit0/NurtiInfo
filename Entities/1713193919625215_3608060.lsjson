@@ -1,0 +1,23 @@
+{
+    "1713193919625215:3608060": {
+        "IResourceController": {
+            "name": "Popups",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713193919625472:3608061",
+            "resources": [
+                "1713193919626303:3608062",
+                "1713193919696245:3608092"
+            ]
+        }
+    },
+    "1713193919625472:3608061": {
+        "IResourceController": {
+            "public": {
+                "path": "Popups"
+            }
+        }
+    }
+}

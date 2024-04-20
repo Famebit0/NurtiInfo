@@ -1,0 +1,22 @@
+{
+    "1713192098379538:2640296": {
+        "IResourceController": {
+            "name": "Material",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713192098379923:2640297",
+            "resources": [
+                "1713192097961024:2640282"
+            ]
+        }
+    },
+    "1713192098379923:2640297": {
+        "IResourceController": {
+            "public": {
+                "path": "Cross Hint/Material"
+            }
+        }
+    }
+}

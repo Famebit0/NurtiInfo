@@ -1,0 +1,39 @@
+{
+    "1713622179490231:3308985": {
+        "IFileManager": {
+            "path": "Files/File_1713622179490231_3308985"
+        }
+    },
+    "1713622179493548:3308986": {
+        "IResourceController": {
+            "name": "Sky",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622179493554:3308987",
+            "fileId": "1713622179490231:3308985",
+            "originalId": "1713622179552612:3308993",
+            "publicId": "1713622179880320:3309000",
+            "expected_hash": "2c93d1ef59517c361ed88dd03cbc248c"
+        },
+        "IResourceManager": {
+            "uid": "1713622179493554:3308987",
+            "name": "Files/File_1713622179490231_3308985",
+            "flags": 1
+        }
+    },
+    "1713622179552612:3308993": {
+        "IFileManager": {
+            "path": "Files/File_1713622179552612_3308993.lsmat"
+        }
+    },
+    "1713622179880320:3309000": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Text Materials/Sky.lsmat",
+                "hash": "ec703f16cf559a9ccc65b3ada1c68e64"
+            }
+        }
+    }
+}

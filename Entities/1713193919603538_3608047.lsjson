@@ -1,0 +1,38 @@
+{
+    "1713193919601032:3608046": {
+        "IFileManager": {
+            "path": "Files/File_1713193919601032_3608046.js"
+        }
+    },
+    "1713193919603538:3608047": {
+        "IResourceController": {
+            "name": "Popups",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713193919603557:3608048",
+            "fileId": "1713193919601032:3608046",
+            "publicId": "1713193919632535:3608064",
+            "expected_hash": "af305c22ed4d85d26c866fd29f624216"
+        },
+        "IResourceManager": {
+            "uid": "1713193919603557:3608048",
+            "name": "Files/File_1713193919601032_3608046.js",
+            "flags": 1
+        }
+    },
+    "1713193919603557:3608048": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1713193919632535:3608064": {
+        "IResourceController": {
+            "public": {
+                "path": "Popups/System/Popups.js",
+                "hash": "af305c22ed4d85d26c866fd29f624216"
+            }
+        }
+    }
+}

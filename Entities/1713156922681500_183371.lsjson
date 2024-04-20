@@ -1,0 +1,38 @@
+{
+    "1713156922675593:183370": {
+        "IFileManager": {
+            "path": "Files/File_1713156922675593_183370.js"
+        }
+    },
+    "1713156922681500:183371": {
+        "IResourceController": {
+            "name": "QuarticFunc",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713156922681532:183372",
+            "fileId": "1713156922675593:183370",
+            "publicId": "1713156922711086:183384",
+            "expected_hash": "4ce20e8c027dd5548576b451baa44069"
+        },
+        "IResourceManager": {
+            "uid": "1713156922681532:183372",
+            "name": "Files/File_1713156922675593_183370.js",
+            "flags": 1
+        }
+    },
+    "1713156922681532:183372": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1713156922711086:183384": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/QuarticFunc.js",
+                "hash": "4ce20e8c027dd5548576b451baa44069"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1713622173396718:3306912": {
+        "IFileManager": {
+            "path": "Files/File_1713622173396718_3306912"
+        }
+    },
+    "1713622173399602:3306913": {
+        "IResourceController": {
+            "name": "Purple",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622173399610:3306914",
+            "fileId": "1713622173396718:3306912",
+            "originalId": "1713622173446308:3306920",
+            "publicId": "1713622173768125:3307094",
+            "expected_hash": "2c93d1ef59517c361ed88dd03cbc248c"
+        },
+        "IResourceManager": {
+            "uid": "1713622173399610:3306914",
+            "name": "Files/File_1713622173396718_3306912",
+            "flags": 1
+        }
+    },
+    "1713622173446308:3306920": {
+        "IFileManager": {
+            "path": "Files/File_1713622173446308_3306920.lsmat"
+        }
+    },
+    "1713622173768125:3307094": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Text Materials/Purple.lsmat",
+                "hash": "003d862878d59150297e727942741d51"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1713622180640575:3309181": {
+        "IFileManager": {
+            "path": "Files/File_1713622180640575_3309181.ttf"
+        }
+    },
+    "1713622180651947:3309182": {
+        "IResourceController": {
+            "name": "Montserrat SemiBold 600",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622180651971:3309183",
+            "fileId": "1713622180640575:3309181",
+            "publicId": "1713622180674544:3309195",
+            "expected_hash": "c88cecbffad6d8e731fd95de49561ebd"
+        },
+        "IResourceManager": {
+            "uid": "1713622180651971:3309183",
+            "name": "Files/File_1713622180640575_3309181.ttf",
+            "flags": 1
+        }
+    },
+    "1713622180674544:3309195": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Fonts/Montserrat SemiBold 600.ttf",
+                "hash": "c88cecbffad6d8e731fd95de49561ebd"
+            }
+        }
+    }
+}

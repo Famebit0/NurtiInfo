@@ -1,0 +1,67 @@
+{
+    "1713192098762973:2640655": {
+        "IFileManager": {
+            "path": "Files/File_1713192098762973_2640655.jpg"
+        }
+    },
+    "1713192098766030:2640656": {
+        "IResourceController": {
+            "name": "monster_d",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713192098767393:2640657",
+            "fileId": "1713192098762973:2640655",
+            "originalId": "1713192098767876:2640662",
+            "publicId": "1713192098825204:2640677",
+            "expected_hash": "0e7e47a35e072f47973f350d7e395620",
+            "additional": {
+                "originHash": "0e7e47a35e072f47973f350d7e395620",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713192098767393:2640657",
+            "name": "Files/File_1713192098762973_2640655.jpg",
+            "flags": 1
+        }
+    },
+    "1713192098767393:2640657": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "67089",
+                "extension": "jpg",
+                "originalRAM": "4194304",
+                "originalSize": "67089",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1713192098795833:2640676"
+        }
+    },
+    "1713192098767876:2640662": {
+        "IFileManager": {
+            "path": "Files/File_1713192098767876_2640662.jpg"
+        }
+    },
+    "1713192098795833:2640676": {
+        "IFileManager": {
+            "path": "Files/File_1713192098795833_2640676.jpg"
+        }
+    },
+    "1713192098825204:2640677": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Mark/Textures/monster_d.jpg",
+                "hash": "0e7e47a35e072f47973f350d7e395620"
+            }
+        }
+    }
+}

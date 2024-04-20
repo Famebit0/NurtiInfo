@@ -1,0 +1,39 @@
+{
+    "1713622170242520:3305868": {
+        "IFileManager": {
+            "path": "Files/File_1713622170242520_3305868"
+        }
+    },
+    "1713622170245436:3305869": {
+        "IResourceController": {
+            "name": "Fire",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622170245441:3305870",
+            "fileId": "1713622170242520:3305868",
+            "originalId": "1713622170294848:3305876",
+            "publicId": "1713622170602452:3305883",
+            "expected_hash": "2c93d1ef59517c361ed88dd03cbc248c"
+        },
+        "IResourceManager": {
+            "uid": "1713622170245441:3305870",
+            "name": "Files/File_1713622170242520_3305868",
+            "flags": 1
+        }
+    },
+    "1713622170294848:3305876": {
+        "IFileManager": {
+            "path": "Files/File_1713622170294848_3305876.lsmat"
+        }
+    },
+    "1713622170602452:3305883": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Text Materials/Fire.lsmat",
+                "hash": "010964c9434fcd6d2899f5e168475ac1"
+            }
+        }
+    }
+}

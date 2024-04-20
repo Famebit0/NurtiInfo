@@ -1,0 +1,22 @@
+{
+    "1713192087163603:2629485": {
+        "IResourceController": {
+            "name": "Texture",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713192087163766:2629486",
+            "resources": [
+                "1713192087081960:2629465"
+            ]
+        }
+    },
+    "1713192087163766:2629486": {
+        "IResourceController": {
+            "public": {
+                "path": "Magnifying Hint/Texture"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1713622167013861:3304588": {
+        "IResourceController": {
+            "name": "3D_Text_Styles_PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622167013806:3304585",
+            "fileId": "1713622167079781:3304607",
+            "originalId": "1713624352279361:5782819",
+            "publicId": "1713622180867971:3309696",
+            "expected_hash": "a64ec1edf25ef91eaeec54c3bdd4b46a"
+        },
+        "IResourceManager": {
+            "uid": "1713622167013806:3304585",
+            "name": "sceneObject_15",
+            "flags": 0
+        }
+    },
+    "1713622167079781:3304607": {
+        "IFileManager": {
+            "path": "Files/File_1713622167079781_3304607.oprfb"
+        }
+    },
+    "1713622180867971:3309696": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles/3D_Text_Styles_PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "efb27df21f8c70888e2c08a3454a8ccd"
+            }
+        }
+    },
+    "1713624352279361:5782819": {
+        "IFileManager": {
+            "path": "Files/File_1713624352279361_5782819.oprfb"
+        }
+    }
+}

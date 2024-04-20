@@ -1,0 +1,39 @@
+{
+    "1713252188315592:2130941": {
+        "IFileManager": {
+            "path": "Files/File_1713252188315592_2130941"
+        }
+    },
+    "1713252188321888:2130942": {
+        "IResourceController": {
+            "name": "Fanta_Marker",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713252188329053:2130943",
+            "fileId": "1713252188315592:2130941",
+            "originalId": "1713252188329591:2130948",
+            "publicId": "1713252188343941:2130949",
+            "expected_hash": "1bb51290f8edb694344475abc569c5f9"
+        },
+        "IResourceManager": {
+            "uid": "1713252188329053:2130943",
+            "name": "Files/File_1713252188315592_2130941",
+            "flags": 1
+        }
+    },
+    "1713252188329591:2130948": {
+        "IFileManager": {
+            "path": "Files/File_1713252188329591_2130948.png"
+        }
+    },
+    "1713252188343941:2130949": {
+        "IResourceController": {
+            "public": {
+                "path": "Fanta/Fanta_Marker.png",
+                "hash": "74ed5e99d00ca58425bf848c970816d0"
+            }
+        }
+    }
+}

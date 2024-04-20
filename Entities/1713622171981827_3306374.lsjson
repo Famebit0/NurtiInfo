@@ -1,0 +1,39 @@
+{
+    "1713622171978229:3306371": {
+        "IFileManager": {
+            "path": "Files/File_1713622171978229_3306371"
+        }
+    },
+    "1713622171981827:3306374": {
+        "IResourceController": {
+            "name": "BlueClean",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622171981832:3306375",
+            "fileId": "1713622171978229:3306371",
+            "originalId": "1713622172030707:3306379",
+            "publicId": "1713622172339150:3306553",
+            "expected_hash": "2c93d1ef59517c361ed88dd03cbc248c"
+        },
+        "IResourceManager": {
+            "uid": "1713622171981832:3306375",
+            "name": "Files/File_1713622171978229_3306371",
+            "flags": 1
+        }
+    },
+    "1713622172030707:3306379": {
+        "IFileManager": {
+            "path": "Files/File_1713622172030707_3306379.lsmat"
+        }
+    },
+    "1713622172339150:3306553": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Text Materials/BlueClean.lsmat",
+                "hash": "25d12bc31d525c46902681bf1802b63b"
+            }
+        }
+    }
+}

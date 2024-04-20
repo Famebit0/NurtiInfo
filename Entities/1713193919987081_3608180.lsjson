@@ -1,0 +1,33 @@
+{
+    "1713193919983395:3608170": {
+        "IFileManager": {
+            "path": "Files/File_1713193919983395_3608170.mp3"
+        }
+    },
+    "1713193919987081:3608180": {
+        "IResourceController": {
+            "name": "Tick Sound",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713193919987515:3608183",
+            "fileId": "1713193919983395:3608170",
+            "publicId": "1713193919998529:3608194",
+            "expected_hash": "b2ac311a88d7d71da2afa4a554246c84"
+        },
+        "IResourceManager": {
+            "uid": "1713193919987515:3608183",
+            "name": "Files/File_1713193919983395_3608170.mp3",
+            "flags": 1
+        }
+    },
+    "1713193919998529:3608194": {
+        "IResourceController": {
+            "public": {
+                "path": "Popups/Example Visuals/Tick Sound.mp3",
+                "hash": "b2ac311a88d7d71da2afa4a554246c84"
+            }
+        }
+    }
+}

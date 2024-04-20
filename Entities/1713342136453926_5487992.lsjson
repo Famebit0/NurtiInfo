@@ -1,0 +1,79 @@
+{
+    "1713342136434192:5487991": {
+        "IFileManager": {
+            "path": "Files/File_1713342136434192_5487991.pvr"
+        }
+    },
+    "1713342136453926:5487992": {
+        "IResourceController": {
+            "name": "INGREDIENTS (2)",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713342136466022:5488001",
+            "fileId": "1713342136434192:5487991",
+            "originalId": "1713342136468500:5488008",
+            "publicId": "1713342136599819:5488064",
+            "expected_hash": "8cb563c64db92f9e5fb838dbac9029af",
+            "additional": {
+                "originHash": "9b8021e394f2b0a3a8bba1368e4fa6f1"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713342136466022:5488001",
+            "name": "Files/File_1713342136434192_5487991.png",
+            "flags": 1
+        }
+    },
+    "1713342136466022:5488001": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "9b8021e394f2b0a3a8bba1368e4fa6f1"
+                    },
+                    "v": "1713342161491639:5599226"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "168720",
+                "compressedSize": "20490",
+                "extension": "png",
+                "originalRAM": "1346800",
+                "originalSize": "30329",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713342136478681:5488013"
+        }
+    },
+    "1713342136468500:5488008": {
+        "IFileManager": {
+            "path": "Files/File_1713342136468500_5488008.png"
+        }
+    },
+    "1713342136478681:5488013": {
+        "IFileManager": {
+            "path": "Files/File_1713342136478681_5488013.png"
+        }
+    },
+    "1713342136599819:5488064": {
+        "IResourceController": {
+            "public": {
+                "path": "Coca-Cola/INGREDIENTS (2).png",
+                "hash": "9b8021e394f2b0a3a8bba1368e4fa6f1"
+            }
+        }
+    },
+    "1713342161491639:5599226": {
+        "IFileManager": {
+            "path": "Files/File_1713342161491639_5599226.pvr"
+        }
+    }
+}

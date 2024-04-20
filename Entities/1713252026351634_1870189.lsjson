@@ -1,0 +1,79 @@
+{
+    "1713252026341168:1870175": {
+        "IFileManager": {
+            "path": "Files/File_1713252026341168_1870175.pvr"
+        }
+    },
+    "1713252026351634:1870189": {
+        "IResourceController": {
+            "name": "FANTA-NUTRITIONAL FACTS",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713252026358935:1870190",
+            "fileId": "1713252026341168:1870175",
+            "originalId": "1713252026360461:1870195",
+            "publicId": "1713252026413164:1870225",
+            "expected_hash": "5a0a04f8dce1f1707a5f3c4154c5053c",
+            "additional": {
+                "originHash": "6eaa5946d92ed7411a033180420ddaf7"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713252026358935:1870190",
+            "name": "Files/File_1713252026341168_1870175.png",
+            "flags": 1
+        }
+    },
+    "1713252026358935:1870190": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "6eaa5946d92ed7411a033180420ddaf7"
+                    },
+                    "v": "1713252040079363:1899537"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "213120",
+                "compressedSize": "16652",
+                "extension": "png",
+                "originalRAM": "1699040",
+                "originalSize": "25842",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713252026369624:1870196"
+        }
+    },
+    "1713252026360461:1870195": {
+        "IFileManager": {
+            "path": "Files/File_1713252026360461_1870195.png"
+        }
+    },
+    "1713252026369624:1870196": {
+        "IFileManager": {
+            "path": "Files/File_1713252026369624_1870196.png"
+        }
+    },
+    "1713252026413164:1870225": {
+        "IResourceController": {
+            "public": {
+                "path": "Fanta/FANTA-NUTRITIONAL FACTS.png",
+                "hash": "6eaa5946d92ed7411a033180420ddaf7"
+            }
+        }
+    },
+    "1713252040079363:1899537": {
+        "IFileManager": {
+            "path": "Files/File_1713252040079363_1899537.pvr"
+        }
+    }
+}

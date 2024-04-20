@@ -1,0 +1,80 @@
+{
+    "1713192098474139:2640391": {
+        "IFileManager": {
+            "path": "Files/File_1713192098474139_2640391"
+        }
+    },
+    "1713192098490427:2640434": {
+        "IResourceController": {
+            "name": "2",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713192098498862:2640442",
+            "fileId": "1713192098474139:2640391",
+            "originalId": "1713192098536238:2640486",
+            "publicId": "1713192098647273:2640619",
+            "expected_hash": "623b934bda9f2bfdcf14abd5ee01bcd7",
+            "additional": {
+                "subtype": "5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713192098498862:2640442",
+            "name": "Files/File_1713192098474139_2640391",
+            "flags": 1
+        }
+    },
+    "1713192098498862:2640442": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "68c80a20f316a0123a1b396bfcc6382d"
+                    },
+                    "v": "1713192139300681:2652811"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "55296",
+                "compressedSize": "9714",
+                "extension": "t3d",
+                "originalRAM": "442368",
+                "originalSize": "5456",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713192098625196:2640618"
+        }
+    },
+    "1713192098536238:2640486": {
+        "IFileManager": {
+            "path": "Files/File_1713192098536238_2640486"
+        }
+    },
+    "1713192098625196:2640618": {
+        "IFileManager": {
+            "path": "Files/File_1713192098625196_2640618"
+        }
+    },
+    "1713192098647273:2640619": {
+        "IResourceController": {
+            "public": {
+                "path": "Cross Hint/Textures/2",
+                "hash": "68c80a20f316a0123a1b396bfcc6382d",
+                "complexResourceHash": "a34292f9a58cb6a63ca58597983e5143"
+            }
+        }
+    },
+    "1713192139300681:2652811": {
+        "IFileManager": {
+            "path": "Files/File_1713192139300681_2652811"
+        }
+    }
+}

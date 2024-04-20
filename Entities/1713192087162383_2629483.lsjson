@@ -1,0 +1,24 @@
+{
+    "1713192087162383:2629483": {
+        "IResourceController": {
+            "name": "Magnifying Hint",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713192087162657:2629484",
+            "resources": [
+                "1713192087163603:2629485",
+                "1713192087522251:2629524",
+                "1713192088090605:2629810"
+            ]
+        }
+    },
+    "1713192087162657:2629484": {
+        "IResourceController": {
+            "public": {
+                "path": "Magnifying Hint"
+            }
+        }
+    }
+}

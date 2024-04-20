@@ -1,0 +1,79 @@
+{
+    "1713196487518403:4464972": {
+        "IFileManager": {
+            "path": "Files/File_1713196487518403_4464972.pvr"
+        }
+    },
+    "1713196487528202:4464979": {
+        "IResourceController": {
+            "name": "Frame 7 (3) 2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713196487591789:4464991",
+            "fileId": "1713196487518403:4464972",
+            "originalId": "1713196487592770:4464996",
+            "publicId": "1713196487739099:4465031",
+            "expected_hash": "d8df566189fa45c78d4fbc5e7edfb99b",
+            "additional": {
+                "originHash": "90c645996aa2b92a4275d0c01a54e4ce"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713196487591789:4464991",
+            "name": "Files/File_1713196487518403_4464972.png",
+            "flags": 1
+        }
+    },
+    "1713196487591789:4464991": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "90c645996aa2b92a4275d0c01a54e4ce"
+                    },
+                    "v": "1713196523015560:4484554"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "476288",
+                "compressedSize": "146851",
+                "extension": "png",
+                "originalRAM": "3810304",
+                "originalSize": "459340",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713196487607373:4464999"
+        }
+    },
+    "1713196487592770:4464996": {
+        "IFileManager": {
+            "path": "Files/File_1713196487592770_4464996.png"
+        }
+    },
+    "1713196487607373:4464999": {
+        "IFileManager": {
+            "path": "Files/File_1713196487607373_4464999.png"
+        }
+    },
+    "1713196487739099:4465031": {
+        "IResourceController": {
+            "public": {
+                "path": "Frame 7 (3) 2.png",
+                "hash": "90c645996aa2b92a4275d0c01a54e4ce"
+            }
+        }
+    },
+    "1713196523015560:4484554": {
+        "IFileManager": {
+            "path": "Files/File_1713196523015560_4484554.pvr"
+        }
+    }
+}

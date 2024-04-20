@@ -1,0 +1,39 @@
+{
+    "1713621483406422:2448559": {
+        "IFileManager": {
+            "path": "Files/File_1713621483406422_2448559"
+        }
+    },
+    "1713621483413604:2448560": {
+        "IResourceController": {
+            "name": "bisleri2 1",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713621483422397:2448561",
+            "fileId": "1713621483406422:2448559",
+            "originalId": "1713621483422842:2448566",
+            "publicId": "1713621483441062:2448569",
+            "expected_hash": "23132e8c459940f194b3cfb36827acd8"
+        },
+        "IResourceManager": {
+            "uid": "1713621483422397:2448561",
+            "name": "Files/File_1713621483406422_2448559",
+            "flags": 1
+        }
+    },
+    "1713621483422842:2448566": {
+        "IFileManager": {
+            "path": "Files/File_1713621483422842_2448566.png"
+        }
+    },
+    "1713621483441062:2448569": {
+        "IResourceController": {
+            "public": {
+                "path": "bisleri2 1.png",
+                "hash": "ea1c8ee2eede23df6e718f87ec4af69f"
+            }
+        }
+    }
+}

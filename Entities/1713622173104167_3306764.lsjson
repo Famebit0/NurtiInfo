@@ -1,0 +1,33 @@
+{
+    "1713622173098502:3306761": {
+        "IFileManager": {
+            "path": "Files/File_1713622173098502_3306761.ttf"
+        }
+    },
+    "1713622173104167:3306764": {
+        "IResourceController": {
+            "name": "Viga-Regular",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622173104187:3306765",
+            "fileId": "1713622173098502:3306761",
+            "publicId": "1713622173119405:3306775",
+            "expected_hash": "caf1116511ef945216d4d56b9752fa76"
+        },
+        "IResourceManager": {
+            "uid": "1713622173104187:3306765",
+            "name": "Files/File_1713622173098502_3306761.ttf",
+            "flags": 1
+        }
+    },
+    "1713622173119405:3306775": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Fonts/Viga-Regular.ttf",
+                "hash": "caf1116511ef945216d4d56b9752fa76"
+            }
+        }
+    }
+}

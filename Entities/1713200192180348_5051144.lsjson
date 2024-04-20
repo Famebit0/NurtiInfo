@@ -1,0 +1,22 @@
+{
+    "1713200192180348:5051144": {
+        "IResourceController": {
+            "name": "Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713200192180917:5051145",
+            "resources": [
+                "1713200192182903:5051146"
+            ]
+        }
+    },
+    "1713200192180917:5051145": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Hint Resources/Resources"
+            }
+        }
+    }
+}

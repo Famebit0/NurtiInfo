@@ -1,0 +1,33 @@
+{
+    "1713622172997646:3306692": {
+        "IFileManager": {
+            "path": "Files/File_1713622172997646_3306692.ttf"
+        }
+    },
+    "1713622173002825:3306693": {
+        "IResourceController": {
+            "name": "PassionOne-Black",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622173002851:3306694",
+            "fileId": "1713622172997646:3306692",
+            "publicId": "1713622173023743:3306708",
+            "expected_hash": "3c51ac8f092c3ba1296bbdd96e03ad14"
+        },
+        "IResourceManager": {
+            "uid": "1713622173002851:3306694",
+            "name": "Files/File_1713622172997646_3306692.ttf",
+            "flags": 1
+        }
+    },
+    "1713622173023743:3306708": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Fonts/PassionOne-Black.ttf",
+                "hash": "3c51ac8f092c3ba1296bbdd96e03ad14"
+            }
+        }
+    }
+}

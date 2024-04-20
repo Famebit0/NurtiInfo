@@ -1,0 +1,33 @@
+{
+    "1713193599626694:3431005": {
+        "IFileManager": {
+            "path": "Files/File_1713193599626694_3431005.ttf"
+        }
+    },
+    "1713193599635371:3431017": {
+        "IResourceController": {
+            "name": "Baloo-Regular",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713193599635396:3431018",
+            "fileId": "1713193599626694:3431005",
+            "publicId": "1713193599639919:3431023",
+            "expected_hash": "9525712caf1a6825fa84e398ece3e4a1"
+        },
+        "IResourceManager": {
+            "uid": "1713193599635396:3431018",
+            "name": "Files/File_1713193599626694_3431005.ttf",
+            "flags": 1
+        }
+    },
+    "1713193599639919:3431023": {
+        "IResourceController": {
+            "public": {
+                "path": "Baloo-Regular.ttf",
+                "hash": "9525712caf1a6825fa84e398ece3e4a1"
+            }
+        }
+    }
+}

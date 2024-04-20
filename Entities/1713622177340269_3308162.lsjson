@@ -1,0 +1,39 @@
+{
+    "1713622177337542:3308161": {
+        "IFileManager": {
+            "path": "Files/File_1713622177337542_3308161"
+        }
+    },
+    "1713622177340269:3308162": {
+        "IResourceController": {
+            "name": "Concrete",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622177340274:3308163",
+            "fileId": "1713622177337542:3308161",
+            "originalId": "1713622177393380:3308169",
+            "publicId": "1713622177717120:3308278",
+            "expected_hash": "2c93d1ef59517c361ed88dd03cbc248c"
+        },
+        "IResourceManager": {
+            "uid": "1713622177340274:3308163",
+            "name": "Files/File_1713622177337542_3308161",
+            "flags": 1
+        }
+    },
+    "1713622177393380:3308169": {
+        "IFileManager": {
+            "path": "Files/File_1713622177393380_3308169.lsmat"
+        }
+    },
+    "1713622177717120:3308278": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Text Materials/Concrete.lsmat",
+                "hash": "81a929c610be6b329bd23f11f61f37b9"
+            }
+        }
+    }
+}

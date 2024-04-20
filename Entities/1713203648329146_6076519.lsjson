@@ -1,0 +1,79 @@
+{
+    "1713203648314757:6076518": {
+        "IFileManager": {
+            "path": "Files/File_1713203648314757_6076518.pvr"
+        }
+    },
+    "1713203648329146:6076519": {
+        "IResourceController": {
+            "name": "Pepsi_Calories",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713203648336143:6076520",
+            "fileId": "1713203648314757:6076518",
+            "originalId": "1713203648336594:6076525",
+            "publicId": "1713203648385734:6076555",
+            "expected_hash": "1b25e4f13b54642f86d0a2963b00b3e3",
+            "additional": {
+                "originHash": "cf0b2992879a2d1aec80c3531ff3fd39"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713203648336143:6076520",
+            "name": "Files/File_1713203648314757_6076518.png",
+            "flags": 1
+        }
+    },
+    "1713203648336143:6076520": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "cf0b2992879a2d1aec80c3531ff3fd39"
+                    },
+                    "v": "1713203660825804:6082573"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "495216",
+                "compressedSize": "29007",
+                "extension": "png",
+                "originalRAM": "3958992",
+                "originalSize": "47256",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713203648347007:6076528"
+        }
+    },
+    "1713203648336594:6076525": {
+        "IFileManager": {
+            "path": "Files/File_1713203648336594_6076525.png"
+        }
+    },
+    "1713203648347007:6076528": {
+        "IFileManager": {
+            "path": "Files/File_1713203648347007_6076528.png"
+        }
+    },
+    "1713203648385734:6076555": {
+        "IResourceController": {
+            "public": {
+                "path": "Pepsi/Pepsi_Calories.png",
+                "hash": "cf0b2992879a2d1aec80c3531ff3fd39"
+            }
+        }
+    },
+    "1713203660825804:6082573": {
+        "IFileManager": {
+            "path": "Files/File_1713203660825804_6082573.pvr"
+        }
+    }
+}

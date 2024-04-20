@@ -1,0 +1,23 @@
+{
+    "1713622169342192:3305460": {
+        "IResourceController": {
+            "name": "3D Text Styles Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713622169342668:3305461",
+            "resources": [
+                "1713622169344854:3305462",
+                "1713622173020504:3306706"
+            ]
+        }
+    },
+    "1713622169342668:3305461": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources"
+            }
+        }
+    }
+}

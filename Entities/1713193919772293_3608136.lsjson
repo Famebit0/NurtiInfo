@@ -1,0 +1,39 @@
+{
+    "1713193919770260:3608135": {
+        "IFileManager": {
+            "path": "Files/File_1713193919770260_3608135"
+        }
+    },
+    "1713193919772293:3608136": {
+        "IResourceController": {
+            "name": "Avatar Mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713193919772299:3608137",
+            "fileId": "1713193919770260:3608135",
+            "originalId": "1713193919805963:3608143",
+            "publicId": "1713193919965074:3608150",
+            "expected_hash": "53fb3572b2e9c2d0afa92b99e09109ab"
+        },
+        "IResourceManager": {
+            "uid": "1713193919772299:3608137",
+            "name": "Files/File_1713193919770260_3608135",
+            "flags": 1
+        }
+    },
+    "1713193919805963:3608143": {
+        "IFileManager": {
+            "path": "Files/File_1713193919805963_3608143.lsmat"
+        }
+    },
+    "1713193919965074:3608150": {
+        "IResourceController": {
+            "public": {
+                "path": "Popups/System/Avatar Mat.lsmat",
+                "hash": "d921426834c84d1761c220ed81f39a5d"
+            }
+        }
+    }
+}

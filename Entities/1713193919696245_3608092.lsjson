@@ -1,0 +1,23 @@
+{
+    "1713193919696245:3608092": {
+        "IResourceController": {
+            "name": "Example Visuals",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713193919696505:3608093",
+            "resources": [
+                "1713193919671281:3608078",
+                "1713193919987081:3608180"
+            ]
+        }
+    },
+    "1713193919696505:3608093": {
+        "IResourceController": {
+            "public": {
+                "path": "Popups/Example Visuals"
+            }
+        }
+    }
+}

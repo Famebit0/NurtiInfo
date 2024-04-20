@@ -1,0 +1,22 @@
+{
+    "1713155745203436:10424": {
+        "IResourceController": {
+            "name": "Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713155745203913:10425",
+            "resources": [
+                "1713155745164590:10411"
+            ]
+        }
+    },
+    "1713155745203913:10425": {
+        "IResourceController": {
+            "public": {
+                "path": "Marker Resources/Scripts"
+            }
+        }
+    }
+}

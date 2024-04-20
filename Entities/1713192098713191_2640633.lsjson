@@ -1,0 +1,39 @@
+{
+    "1713192098708333:2640632": {
+        "IFileManager": {
+            "path": "Files/File_1713192098708333_2640632"
+        }
+    },
+    "1713192098713191:2640633": {
+        "IResourceController": {
+            "name": "Snapinsta 2",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713192098720724:2640634",
+            "fileId": "1713192098708333:2640632",
+            "originalId": "1713192098721122:2640639",
+            "publicId": "1713192098749638:2640645",
+            "expected_hash": "127f8b3dfe77653ce5857253914d1728"
+        },
+        "IResourceManager": {
+            "uid": "1713192098720724:2640634",
+            "name": "Files/File_1713192098708333_2640632",
+            "flags": 1
+        }
+    },
+    "1713192098721122:2640639": {
+        "IFileManager": {
+            "path": "Files/File_1713192098721122_2640639.jpg"
+        }
+    },
+    "1713192098749638:2640645": {
+        "IResourceController": {
+            "public": {
+                "path": "Snapinsta 2.jpg",
+                "hash": "e514c0a2e060dd4ce64fa1ab97e4852b"
+            }
+        }
+    }
+}

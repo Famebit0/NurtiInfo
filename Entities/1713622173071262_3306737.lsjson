@@ -1,0 +1,33 @@
+{
+    "1713622173065957:3306734": {
+        "IFileManager": {
+            "path": "Files/File_1713622173065957_3306734.ttf"
+        }
+    },
+    "1713622173071262:3306737": {
+        "IResourceController": {
+            "name": "Staatliches-Regular",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622173071296:3306738",
+            "fileId": "1713622173065957:3306734",
+            "publicId": "1713622173087295:3306748",
+            "expected_hash": "d5746e3b20453d6cee99ab27a0bdf949"
+        },
+        "IResourceManager": {
+            "uid": "1713622173071296:3306738",
+            "name": "Files/File_1713622173065957_3306734.ttf",
+            "flags": 1
+        }
+    },
+    "1713622173087295:3306748": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Fonts/Staatliches-Regular.ttf",
+                "hash": "d5746e3b20453d6cee99ab27a0bdf949"
+            }
+        }
+    }
+}

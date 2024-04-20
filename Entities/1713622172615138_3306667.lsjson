@@ -1,0 +1,39 @@
+{
+    "1713622172612362:3306665": {
+        "IFileManager": {
+            "path": "Files/File_1713622172612362_3306665"
+        }
+    },
+    "1713622172615138:3306667": {
+        "IResourceController": {
+            "name": "RedFade",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622172615143:3306668",
+            "fileId": "1713622172612362:3306665",
+            "originalId": "1713622172663068:3306672",
+            "publicId": "1713622172965058:3306679",
+            "expected_hash": "2c93d1ef59517c361ed88dd03cbc248c"
+        },
+        "IResourceManager": {
+            "uid": "1713622172615143:3306668",
+            "name": "Files/File_1713622172612362_3306665",
+            "flags": 1
+        }
+    },
+    "1713622172663068:3306672": {
+        "IFileManager": {
+            "path": "Files/File_1713622172663068_3306672.lsmat"
+        }
+    },
+    "1713622172965058:3306679": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Text Materials/RedFade.lsmat",
+                "hash": "7ea14f7caccdbc67b674dead62352e7f"
+            }
+        }
+    }
+}

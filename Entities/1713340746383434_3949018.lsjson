@@ -1,0 +1,39 @@
+{
+    "1713340746377792:3949017": {
+        "IFileManager": {
+            "path": "Files/File_1713340746377792_3949017"
+        }
+    },
+    "1713340746383434:3949018": {
+        "IResourceController": {
+            "name": "CocaCola",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713340746390600:3949019",
+            "fileId": "1713340746377792:3949017",
+            "originalId": "1713340746390953:3949024",
+            "publicId": "1713340746404090:3949039",
+            "expected_hash": "519ad3ab2716bd15692174084f9f0b2b"
+        },
+        "IResourceManager": {
+            "uid": "1713340746390600:3949019",
+            "name": "Files/File_1713340746377792_3949017",
+            "flags": 1
+        }
+    },
+    "1713340746390953:3949024": {
+        "IFileManager": {
+            "path": "Files/File_1713340746390953_3949024.png"
+        }
+    },
+    "1713340746404090:3949039": {
+        "IResourceController": {
+            "public": {
+                "path": "Coca-Cola/CocaCola.png",
+                "hash": "beac7b00e52af72d4c9b6a20565b3ece"
+            }
+        }
+    }
+}

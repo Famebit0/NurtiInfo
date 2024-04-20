@@ -1,0 +1,42 @@
+{
+    "1713193919668400:3608077": {
+        "IFileManager": {
+            "path": "Files/File_1713193919668400_3608077.png"
+        }
+    },
+    "1713193919671281:3608078": {
+        "IResourceController": {
+            "name": "Dialog Texture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713193919672590:3608079",
+            "fileId": "1713193919668400:3608077",
+            "originalId": "1713193919673199:3608084",
+            "publicId": "1713193919698843:3608094",
+            "expected_hash": "05ce9fc53425ddfe18d9ed02ff529297",
+            "additional": {
+                "originHash": "05ce9fc53425ddfe18d9ed02ff529297"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713193919672590:3608079",
+            "name": "Files/File_1713193919668400_3608077.jpg",
+            "flags": 1
+        }
+    },
+    "1713193919673199:3608084": {
+        "IFileManager": {
+            "path": "Files/File_1713193919673199_3608084.png"
+        }
+    },
+    "1713193919698843:3608094": {
+        "IResourceController": {
+            "public": {
+                "path": "Popups/Example Visuals/Dialog Texture.png",
+                "hash": "05ce9fc53425ddfe18d9ed02ff529297"
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "1713156922942407:183476": {
+        "IResourceController": {
+            "name": "Color",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713156922942865:183477",
+            "resources": [
+                "1713156922913615:183465",
+                "1713156922965973:183483",
+                "1713156923014666:183501"
+            ]
+        }
+    },
+    "1713156922942865:183477": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Color"
+            }
+        }
+    }
+}

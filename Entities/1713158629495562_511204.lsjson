@@ -1,0 +1,30 @@
+{
+    "1713158629495562:511204": {
+        "IResourceController": {
+            "name": "Button Foreground 2",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1713158629495493:511201",
+            "fileId": "1713158629529959:511213",
+            "originalId": "1713159815573251:907460",
+            "expected_hash": "dfcc7b6cd5d990ec5dc0eee5d4558da8"
+        },
+        "IResourceManager": {
+            "uid": "1713158629495493:511201",
+            "name": "sceneObject_39",
+            "flags": 0
+        }
+    },
+    "1713158629529959:511213": {
+        "IFileManager": {
+            "path": "Files/File_1713158629529959_511213.oprfb"
+        }
+    },
+    "1713159815573251:907460": {
+        "IFileManager": {
+            "path": "Files/File_1713159815573251_907460.oprfb"
+        }
+    }
+}

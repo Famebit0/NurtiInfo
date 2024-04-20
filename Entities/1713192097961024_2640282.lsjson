@@ -1,0 +1,39 @@
+{
+    "1713192097957374:2640281": {
+        "IFileManager": {
+            "path": "Files/File_1713192097957374_2640281"
+        }
+    },
+    "1713192097961024:2640282": {
+        "IResourceController": {
+            "name": "cross_material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713192097961047:2640283",
+            "fileId": "1713192097957374:2640281",
+            "originalId": "1713192098024222:2640289",
+            "publicId": "1713192098384269:2640298",
+            "expected_hash": "038b9086c0e83e7b388dd68d5ecbd8b6"
+        },
+        "IResourceManager": {
+            "uid": "1713192097961047:2640283",
+            "name": "Files/File_1713192097957374_2640281",
+            "flags": 1
+        }
+    },
+    "1713192098024222:2640289": {
+        "IFileManager": {
+            "path": "Files/File_1713192098024222_2640289.lsmat"
+        }
+    },
+    "1713192098384269:2640298": {
+        "IResourceController": {
+            "public": {
+                "path": "Cross Hint/Material/cross_material.lsmat",
+                "hash": "445813ab1e77fd2a713e4cac18c51492"
+            }
+        }
+    }
+}

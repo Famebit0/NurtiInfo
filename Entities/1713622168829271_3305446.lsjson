@@ -1,0 +1,39 @@
+{
+    "1713622168820120:3305445": {
+        "IFileManager": {
+            "path": "Files/File_1713622168820120_3305445"
+        }
+    },
+    "1713622168829271:3305446": {
+        "IResourceController": {
+            "name": "YellowBlack",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622168829277:3305447",
+            "fileId": "1713622168820120:3305445",
+            "originalId": "1713622168898724:3305453",
+            "publicId": "1713622169349000:3305464",
+            "expected_hash": "2c93d1ef59517c361ed88dd03cbc248c"
+        },
+        "IResourceManager": {
+            "uid": "1713622168829277:3305447",
+            "name": "Files/File_1713622168820120_3305445",
+            "flags": 1
+        }
+    },
+    "1713622168898724:3305453": {
+        "IFileManager": {
+            "path": "Files/File_1713622168898724_3305453.lsmat"
+        }
+    },
+    "1713622169349000:3305464": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Text Materials/YellowBlack.lsmat",
+                "hash": "2162d6085ddd84cc3a8e8c247e389307"
+            }
+        }
+    }
+}

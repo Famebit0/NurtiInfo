@@ -1,0 +1,39 @@
+{
+    "1713193920061257:3608223": {
+        "IFileManager": {
+            "path": "Files/File_1713193920061257_3608223"
+        }
+    },
+    "1713193920063139:3608224": {
+        "IResourceController": {
+            "name": "Popup Mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713193920063153:3608225",
+            "fileId": "1713193920061257:3608223",
+            "originalId": "1713193920098279:3608231",
+            "publicId": "1713193920257903:3608238",
+            "expected_hash": "d8fba143129db311570a084935aed474"
+        },
+        "IResourceManager": {
+            "uid": "1713193920063153:3608225",
+            "name": "Files/File_1713193920061257_3608223",
+            "flags": 1
+        }
+    },
+    "1713193920098279:3608231": {
+        "IFileManager": {
+            "path": "Files/File_1713193920098279_3608231.lsmat"
+        }
+    },
+    "1713193920257903:3608238": {
+        "IResourceController": {
+            "public": {
+                "path": "Popups/System/Popup Mat.lsmat",
+                "hash": "183a033b1f4ef9609d4c9ba6fa664805"
+            }
+        }
+    }
+}

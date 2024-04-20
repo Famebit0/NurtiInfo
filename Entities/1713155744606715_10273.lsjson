@@ -1,0 +1,39 @@
+{
+    "1713155744606715:10273": {
+        "IResourceController": {
+            "name": "Marker_Image_PUT_UNDER_MAIN_CAM",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713155744606652:10270",
+            "fileId": "1713155744661066:10287",
+            "originalId": "1713159815398452:907401",
+            "publicId": "1713155745232156:10485",
+            "expected_hash": "57d7c5ace0e276dc3cf9b44249f95c0d"
+        },
+        "IResourceManager": {
+            "uid": "1713155744606652:10270",
+            "name": "sceneObject_0",
+            "flags": 0
+        }
+    },
+    "1713155744661066:10287": {
+        "IFileManager": {
+            "path": "Files/File_1713155744661066_10287.oprfb"
+        }
+    },
+    "1713155745232156:10485": {
+        "IResourceController": {
+            "public": {
+                "path": "Marker_Image_PUT_UNDER_MAIN_CAM.oprfb",
+                "hash": "53b35f206b9c1f1311b99be1137b6504"
+            }
+        }
+    },
+    "1713159815398452:907401": {
+        "IFileManager": {
+            "path": "Files/File_1713159815398452_907401.oprfb"
+        }
+    }
+}

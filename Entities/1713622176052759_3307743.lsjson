@@ -1,0 +1,39 @@
+{
+    "1713622176050226:3307742": {
+        "IFileManager": {
+            "path": "Files/File_1713622176050226_3307742"
+        }
+    },
+    "1713622176052759:3307743": {
+        "IResourceController": {
+            "name": "Stage",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622176052765:3307744",
+            "fileId": "1713622176050226:3307742",
+            "originalId": "1713622176104314:3307750",
+            "publicId": "1713622176440114:3307924",
+            "expected_hash": "2c93d1ef59517c361ed88dd03cbc248c"
+        },
+        "IResourceManager": {
+            "uid": "1713622176052765:3307744",
+            "name": "Files/File_1713622176050226_3307742",
+            "flags": 1
+        }
+    },
+    "1713622176104314:3307750": {
+        "IFileManager": {
+            "path": "Files/File_1713622176104314_3307750.lsmat"
+        }
+    },
+    "1713622176440114:3307924": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Text Materials/Stage.lsmat",
+                "hash": "1d581cd501d067f64be8110dc9202325"
+            }
+        }
+    }
+}

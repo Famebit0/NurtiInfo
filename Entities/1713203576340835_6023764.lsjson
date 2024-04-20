@@ -1,0 +1,39 @@
+{
+    "1713203576336100:6023761": {
+        "IFileManager": {
+            "path": "Files/File_1713203576336100_6023761"
+        }
+    },
+    "1713203576340835:6023764": {
+        "IResourceController": {
+            "name": "Pepsi_Marker",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713203576346129:6023765",
+            "fileId": "1713203576336100:6023761",
+            "originalId": "1713203576346622:6023770",
+            "publicId": "1713203576355655:6023780",
+            "expected_hash": "a75046eb4764d2ea53ad264b83c806bb"
+        },
+        "IResourceManager": {
+            "uid": "1713203576346129:6023765",
+            "name": "Files/File_1713203576336100_6023761",
+            "flags": 1
+        }
+    },
+    "1713203576346622:6023770": {
+        "IFileManager": {
+            "path": "Files/File_1713203576346622_6023770.png"
+        }
+    },
+    "1713203576355655:6023780": {
+        "IResourceController": {
+            "public": {
+                "path": "Pepsi/Pepsi_Marker.png",
+                "hash": "746190ef3f148c917cf451e72596d553"
+            }
+        }
+    }
+}

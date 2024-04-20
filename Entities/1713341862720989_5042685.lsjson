@@ -1,0 +1,79 @@
+{
+    "1713341862711112:5042684": {
+        "IFileManager": {
+            "path": "Files/File_1713341862711112_5042684.pvr"
+        }
+    },
+    "1713341862720989:5042685": {
+        "IResourceController": {
+            "name": "CocaCola_Calories",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713341862735402:5042700",
+            "fileId": "1713341862711112:5042684",
+            "originalId": "1713341862736219:5042705",
+            "publicId": "1713341862865561:5042763",
+            "expected_hash": "207fd58ad17b5a406f17c55bd9c82d8d",
+            "additional": {
+                "originHash": "1b353316e29ed5621d8f6233b192fcee"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713341862735402:5042700",
+            "name": "Files/File_1713341862711112_5042684.png",
+            "flags": 1
+        }
+    },
+    "1713341862735402:5042700": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "1b353316e29ed5621d8f6233b192fcee"
+                    },
+                    "v": "1713341903225955:5119995"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "495216",
+                "compressedSize": "28801",
+                "extension": "png",
+                "originalRAM": "3958992",
+                "originalSize": "47213",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713341862749646:5042706"
+        }
+    },
+    "1713341862736219:5042705": {
+        "IFileManager": {
+            "path": "Files/File_1713341862736219_5042705.png"
+        }
+    },
+    "1713341862749646:5042706": {
+        "IFileManager": {
+            "path": "Files/File_1713341862749646_5042706.png"
+        }
+    },
+    "1713341862865561:5042763": {
+        "IResourceController": {
+            "public": {
+                "path": "Coca-Cola/CocaCola_Calories.png",
+                "hash": "1b353316e29ed5621d8f6233b192fcee"
+            }
+        }
+    },
+    "1713341903225955:5119995": {
+        "IFileManager": {
+            "path": "Files/File_1713341903225955_5119995.pvr"
+        }
+    }
+}

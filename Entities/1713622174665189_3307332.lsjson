@@ -1,0 +1,39 @@
+{
+    "1713622174662320:3307331": {
+        "IFileManager": {
+            "path": "Files/File_1713622174662320_3307331"
+        }
+    },
+    "1713622174665189:3307332": {
+        "IResourceController": {
+            "name": "Coffee",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622174665195:3307333",
+            "fileId": "1713622174662320:3307331",
+            "originalId": "1713622174720116:3307339",
+            "publicId": "1713622175079344:3307346",
+            "expected_hash": "2c93d1ef59517c361ed88dd03cbc248c"
+        },
+        "IResourceManager": {
+            "uid": "1713622174665195:3307333",
+            "name": "Files/File_1713622174662320_3307331",
+            "flags": 1
+        }
+    },
+    "1713622174720116:3307339": {
+        "IFileManager": {
+            "path": "Files/File_1713622174720116_3307339.lsmat"
+        }
+    },
+    "1713622175079344:3307346": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Text Materials/Coffee.lsmat",
+                "hash": "58288e3437af48848c4110d1f721f6b0"
+            }
+        }
+    }
+}

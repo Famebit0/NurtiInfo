@@ -1,0 +1,39 @@
+{
+    "1713622170840233:3306022": {
+        "IFileManager": {
+            "path": "Files/File_1713622170840233_3306022"
+        }
+    },
+    "1713622170842923:3306035": {
+        "IResourceController": {
+            "name": "Pastel",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622170842929:3306036",
+            "fileId": "1713622170840233:3306022",
+            "originalId": "1713622170897530:3306169",
+            "publicId": "1713622171197303:3306176",
+            "expected_hash": "2c93d1ef59517c361ed88dd03cbc248c"
+        },
+        "IResourceManager": {
+            "uid": "1713622170842929:3306036",
+            "name": "Files/File_1713622170840233_3306022",
+            "flags": 1
+        }
+    },
+    "1713622170897530:3306169": {
+        "IFileManager": {
+            "path": "Files/File_1713622170897530_3306169.lsmat"
+        }
+    },
+    "1713622171197303:3306176": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Text Materials/Pastel.lsmat",
+                "hash": "2ba6eb3624c2ffcb8232b6d21042e1ef"
+            }
+        }
+    }
+}

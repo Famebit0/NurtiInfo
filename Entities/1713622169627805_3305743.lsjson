@@ -1,0 +1,39 @@
+{
+    "1713622169624081:3305742": {
+        "IFileManager": {
+            "path": "Files/File_1713622169624081_3305742"
+        }
+    },
+    "1713622169627805:3305743": {
+        "IResourceController": {
+            "name": "PinkBlue",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622169627813:3305744",
+            "fileId": "1713622169624081:3305742",
+            "originalId": "1713622169681083:3305750",
+            "publicId": "1713622169992448:3305757",
+            "expected_hash": "2c93d1ef59517c361ed88dd03cbc248c"
+        },
+        "IResourceManager": {
+            "uid": "1713622169627813:3305744",
+            "name": "Files/File_1713622169624081_3305742",
+            "flags": 1
+        }
+    },
+    "1713622169681083:3305750": {
+        "IFileManager": {
+            "path": "Files/File_1713622169681083_3305750.lsmat"
+        }
+    },
+    "1713622169992448:3305757": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Text Materials/PinkBlue.lsmat",
+                "hash": "23ac10192d6ff4b705378db7f6a3ef65"
+            }
+        }
+    }
+}

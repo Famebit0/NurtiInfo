@@ -1,0 +1,33 @@
+{
+    "1713622173129628:3306788": {
+        "IFileManager": {
+            "path": "Files/File_1713622173129628_3306788.ttf"
+        }
+    },
+    "1713622173134262:3306789": {
+        "IResourceController": {
+            "name": "Anton-Regular",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622173134285:3306790",
+            "fileId": "1713622173129628:3306788",
+            "publicId": "1713622173151682:3306802",
+            "expected_hash": "7777f7f3f519eaedd41b8b9a8cd2666e"
+        },
+        "IResourceManager": {
+            "uid": "1713622173134285:3306790",
+            "name": "Files/File_1713622173129628_3306788.ttf",
+            "flags": 1
+        }
+    },
+    "1713622173151682:3306802": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Fonts/Anton-Regular.ttf",
+                "hash": "7777f7f3f519eaedd41b8b9a8cd2666e"
+            }
+        }
+    }
+}

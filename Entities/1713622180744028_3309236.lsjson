@@ -1,0 +1,33 @@
+{
+    "1713622180732246:3309235": {
+        "IFileManager": {
+            "path": "Files/File_1713622180732246_3309235.ttf"
+        }
+    },
+    "1713622180744028:3309236": {
+        "IResourceController": {
+            "name": "TheNextFont",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622180744052:3309237",
+            "fileId": "1713622180732246:3309235",
+            "publicId": "1713622180765128:3309249",
+            "expected_hash": "4eb20d6ff14be5b8c806e4d6dae6b3de"
+        },
+        "IResourceManager": {
+            "uid": "1713622180744052:3309237",
+            "name": "Files/File_1713622180732246_3309235.ttf",
+            "flags": 1
+        }
+    },
+    "1713622180765128:3309249": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Fonts/TheNextFont.ttf",
+                "hash": "4eb20d6ff14be5b8c806e4d6dae6b3de"
+            }
+        }
+    }
+}

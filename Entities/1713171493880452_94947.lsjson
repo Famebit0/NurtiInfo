@@ -1,0 +1,33 @@
+{
+    "1713171493877340:94946": {
+        "IFileManager": {
+            "path": "Files/File_1713171493877340_94946.js"
+        }
+    },
+    "1713171493880452:94947": {
+        "IResourceController": {
+            "name": "UI Panel",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1713171493880484:94948",
+            "fileId": "1713171493877340:94946",
+            "expected_hash": "c8127866143d0234eed17a34dea62035"
+        },
+        "IResourceManager": {
+            "uid": "1713171493880484:94948",
+            "name": "Files/File_1713171493877340_94946.js",
+            "flags": 1
+        }
+    },
+    "1713171493880484:94948": {
+        "ScriptModulesController": {
+            "dependent_module_names": [
+                "EventModule_100",
+                "UIWidgetsModule_120",
+                "DestructionHelper_120"
+            ]
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1713251153419588:1065860": {
+        "IFileManager": {
+            "path": "Files/File_1713251153419588_1065860"
+        }
+    },
+    "1713251153425586:1065863": {
+        "IResourceController": {
+            "name": "image 6",
+            "type": 15,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713251153433152:1065873",
+            "fileId": "1713251153419588:1065860",
+            "originalId": "1713251153433450:1065878",
+            "publicId": "1713251153444375:1065879",
+            "expected_hash": "3189b765327d4debebd106d2cee45896"
+        },
+        "IResourceManager": {
+            "uid": "1713251153433152:1065873",
+            "name": "Files/File_1713251153419588_1065860",
+            "flags": 1
+        }
+    },
+    "1713251153433450:1065878": {
+        "IFileManager": {
+            "path": "Files/File_1713251153433450_1065878.png"
+        }
+    },
+    "1713251153444375:1065879": {
+        "IResourceController": {
+            "public": {
+                "path": "Redbull/image 6.png",
+                "hash": "aac5bbe8d9de62e37445a577624e3acd"
+            }
+        }
+    }
+}

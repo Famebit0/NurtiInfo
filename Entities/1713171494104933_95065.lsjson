@@ -1,0 +1,33 @@
+{
+    "1713171494102353:95064": {
+        "IFileManager": {
+            "path": "Files/File_1713171494102353_95064.png"
+        }
+    },
+    "1713171494104933:95065": {
+        "IResourceController": {
+            "name": "Panel_10X",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1713171494106112:95066",
+            "fileId": "1713171494102353:95064",
+            "originalId": "1713171494106676:95071",
+            "expected_hash": "7690d514c0cf47ba3dbec409154ae756",
+            "additional": {
+                "originHash": "7690d514c0cf47ba3dbec409154ae756"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713171494106112:95066",
+            "name": "Files/File_1713171494102353_95064.jpg",
+            "flags": 1
+        }
+    },
+    "1713171494106676:95071": {
+        "IFileManager": {
+            "path": "Files/File_1713171494106676_95071.png"
+        }
+    }
+}

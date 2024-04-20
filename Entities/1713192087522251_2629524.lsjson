@@ -1,0 +1,24 @@
+{
+    "1713192087522251:2629524": {
+        "IResourceController": {
+            "name": "Material",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713192087522735:2629525",
+            "resources": [
+                "1713192087283268:2629510",
+                "1713192087583540:2629632",
+                "1713192087836970:2629679"
+            ]
+        }
+    },
+    "1713192087522735:2629525": {
+        "IResourceController": {
+            "public": {
+                "path": "Magnifying Hint/Material"
+            }
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "1713200191976338:5051125": {
+        "IFileManager": {
+            "path": "Files/File_1713200191976338_5051125"
+        }
+    },
+    "1713200192006892:5051126": {
+        "IResourceController": {
+            "name": "LPD_368_surface_v01",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713200192017979:5051129",
+            "fileId": "1713200191976338:5051125",
+            "originalId": "1713200192046140:5051136",
+            "publicId": "1713200192194023:5051150",
+            "expected_hash": "a06ee0ff6731e98fa431f1be68bdc890",
+            "additional": {
+                "subtype": "5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713200192017979:5051129",
+            "name": "Files/File_1713200191976338_5051125",
+            "flags": 1
+        }
+    },
+    "1713200192046140:5051136": {
+        "IFileManager": {
+            "path": "Files/File_1713200192046140_5051136"
+        }
+    },
+    "1713200192194023:5051150": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Hint Resources/Resources/Textures/Animated/LPD_368_surface_v01",
+                "hash": "a06ee0ff6731e98fa431f1be68bdc890",
+                "complexResourceHash": "d37fdf441cef65f1105be9575f64f7db"
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1713342147042439:5532690": {
+        "IFileManager": {
+            "path": "Files/File_1713342147042439_5532690.pvr"
+        }
+    },
+    "1713342147095223:5532705": {
+        "IResourceController": {
+            "name": "FUNFACT (1)",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713342147142867:5532720",
+            "fileId": "1713342147042439:5532690",
+            "originalId": "1713342147144352:5532725",
+            "publicId": "1713342147238881:5532765",
+            "expected_hash": "2476425e64f22d0c156c35ec879c7cdf",
+            "additional": {
+                "originHash": "ed76fdd8a08f984a4661565b3a142837"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713342147142867:5532720",
+            "name": "Files/File_1713342147042439_5532690.png",
+            "flags": 1
+        }
+    },
+    "1713342147142867:5532720": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "ed76fdd8a08f984a4661565b3a142837"
+                    },
+                    "v": "1713342174962994:5746001"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "168720",
+                "compressedSize": "18805",
+                "extension": "png",
+                "originalRAM": "1342024",
+                "originalSize": "27221",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713342147176678:5532740"
+        }
+    },
+    "1713342147144352:5532725": {
+        "IFileManager": {
+            "path": "Files/File_1713342147144352_5532725.png"
+        }
+    },
+    "1713342147176678:5532740": {
+        "IFileManager": {
+            "path": "Files/File_1713342147176678_5532740.png"
+        }
+    },
+    "1713342147238881:5532765": {
+        "IResourceController": {
+            "public": {
+                "path": "Coca-Cola/FUNFACT (1).png",
+                "hash": "ed76fdd8a08f984a4661565b3a142837"
+            }
+        }
+    },
+    "1713342174962994:5746001": {
+        "IFileManager": {
+            "path": "Files/File_1713342174962994_5746001.pvr"
+        }
+    }
+}

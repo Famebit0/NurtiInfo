@@ -1,0 +1,23 @@
+{
+    "1713455082970146:5207060": {
+        "IResourceController": {
+            "public": {
+                "path": "VFX/Materials",
+                "hash": "b048c0859335f327ad8e64c25f584c10"
+            }
+        }
+    },
+    "1713455082971745:5207061": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713455082970146:5207060",
+            "resources": [
+                "1713455082973472:5207063"
+            ]
+        }
+    }
+}

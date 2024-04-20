@@ -1,0 +1,39 @@
+{
+    "1713622178008374:3308468": {
+        "IFileManager": {
+            "path": "Files/File_1713622178008374_3308468"
+        }
+    },
+    "1713622178011558:3308469": {
+        "IResourceController": {
+            "name": "Ocean",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622178011562:3308470",
+            "fileId": "1713622178008374:3308468",
+            "originalId": "1713622178073850:3308476",
+            "publicId": "1713622178381449:3308483",
+            "expected_hash": "2c93d1ef59517c361ed88dd03cbc248c"
+        },
+        "IResourceManager": {
+            "uid": "1713622178011562:3308470",
+            "name": "Files/File_1713622178008374_3308468",
+            "flags": 1
+        }
+    },
+    "1713622178073850:3308476": {
+        "IFileManager": {
+            "path": "Files/File_1713622178073850_3308476.lsmat"
+        }
+    },
+    "1713622178381449:3308483": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Text Materials/Ocean.lsmat",
+                "hash": "4333b23b82ea18cd89814349ff8f686a"
+            }
+        }
+    }
+}

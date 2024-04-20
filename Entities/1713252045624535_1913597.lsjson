@@ -1,0 +1,79 @@
+{
+    "1713252045615642:1913584": {
+        "IFileManager": {
+            "path": "Files/File_1713252045615642_1913584.pvr"
+        }
+    },
+    "1713252045624535:1913597": {
+        "IResourceController": {
+            "name": "Fanta_Calories",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713252045635076:1913598",
+            "fileId": "1713252045615642:1913584",
+            "originalId": "1713252045635700:1913603",
+            "publicId": "1713252045841157:1913689",
+            "expected_hash": "287a9b595ea330967c1f45ffe74cfe8f",
+            "additional": {
+                "originHash": "a8d90e71ec35a1b6faeb93a747984376"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713252045635076:1913598",
+            "name": "Files/File_1713252045615642_1913584.png",
+            "flags": 1
+        }
+    },
+    "1713252045635076:1913598": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "a8d90e71ec35a1b6faeb93a747984376"
+                    },
+                    "v": "1713252071065763:1947946"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "495216",
+                "compressedSize": "28005",
+                "extension": "png",
+                "originalRAM": "3961728",
+                "originalSize": "46330",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713252045661273:1913606"
+        }
+    },
+    "1713252045635700:1913603": {
+        "IFileManager": {
+            "path": "Files/File_1713252045635700_1913603.png"
+        }
+    },
+    "1713252045661273:1913606": {
+        "IFileManager": {
+            "path": "Files/File_1713252045661273_1913606.png"
+        }
+    },
+    "1713252045841157:1913689": {
+        "IResourceController": {
+            "public": {
+                "path": "Fanta/Fanta_Calories.png",
+                "hash": "a8d90e71ec35a1b6faeb93a747984376"
+            }
+        }
+    },
+    "1713252071065763:1947946": {
+        "IFileManager": {
+            "path": "Files/File_1713252071065763_1947946.pvr"
+        }
+    }
+}

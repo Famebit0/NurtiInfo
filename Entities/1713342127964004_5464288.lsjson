@@ -1,0 +1,79 @@
+{
+    "1713342127952451:5464287": {
+        "IFileManager": {
+            "path": "Files/File_1713342127952451_5464287.pvr"
+        }
+    },
+    "1713342127964004:5464288": {
+        "IResourceController": {
+            "name": "NUTRITIONAL FACTS (2)",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713342127973919:5464289",
+            "fileId": "1713342127952451:5464287",
+            "originalId": "1713342127975075:5464294",
+            "publicId": "1713342128032297:5464324",
+            "expected_hash": "8e71cd282256d081eedbcda5c1c24ecd",
+            "additional": {
+                "originHash": "b091c693b88827bf27b12393a90f0db5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713342127973919:5464289",
+            "name": "Files/File_1713342127952451_5464287.png",
+            "flags": 1
+        }
+    },
+    "1713342127973919:5464289": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "b091c693b88827bf27b12393a90f0db5"
+                    },
+                    "v": "1713342145206995:5511836"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "213120",
+                "compressedSize": "19447",
+                "extension": "png",
+                "originalRAM": "1699700",
+                "originalSize": "29666",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713342127982997:5464297"
+        }
+    },
+    "1713342127975075:5464294": {
+        "IFileManager": {
+            "path": "Files/File_1713342127975075_5464294.png"
+        }
+    },
+    "1713342127982997:5464297": {
+        "IFileManager": {
+            "path": "Files/File_1713342127982997_5464297.png"
+        }
+    },
+    "1713342128032297:5464324": {
+        "IResourceController": {
+            "public": {
+                "path": "Coca-Cola/NUTRITIONAL FACTS (2).png",
+                "hash": "b091c693b88827bf27b12393a90f0db5"
+            }
+        }
+    },
+    "1713342145206995:5511836": {
+        "IFileManager": {
+            "path": "Files/File_1713342145206995_5511836.pvr"
+        }
+    }
+}

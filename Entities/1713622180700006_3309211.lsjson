@@ -1,0 +1,33 @@
+{
+    "1713622180687991:3309208": {
+        "IFileManager": {
+            "path": "Files/File_1713622180687991_3309208.ttf"
+        }
+    },
+    "1713622180700006:3309211": {
+        "IResourceController": {
+            "name": "theboldfont",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622180700031:3309212",
+            "fileId": "1713622180687991:3309208",
+            "publicId": "1713622180719813:3309222",
+            "expected_hash": "a1e62992c2000401c04c1b6e042516c0"
+        },
+        "IResourceManager": {
+            "uid": "1713622180700031:3309212",
+            "name": "Files/File_1713622180687991_3309208.ttf",
+            "flags": 1
+        }
+    },
+    "1713622180719813:3309222": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Fonts/theboldfont.ttf",
+                "hash": "a1e62992c2000401c04c1b6e042516c0"
+            }
+        }
+    }
+}

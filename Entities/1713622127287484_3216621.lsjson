@@ -1,0 +1,39 @@
+{
+    "1713622127283924:3216620": {
+        "IFileManager": {
+            "path": "Files/File_1713622127283924_3216620"
+        }
+    },
+    "1713622127287484:3216621": {
+        "IResourceController": {
+            "name": "Customizable_3D_Text_Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622127287491:3216622",
+            "fileId": "1713622127283924:3216620",
+            "originalId": "1713622127342408:3216654",
+            "publicId": "1713622128080330:3216882",
+            "expected_hash": "5b7433a24b1116a2c1900af3fced97a6"
+        },
+        "IResourceManager": {
+            "uid": "1713622127287491:3216622",
+            "name": "Files/File_1713622127283924_3216620",
+            "flags": 1
+        }
+    },
+    "1713622127342408:3216654": {
+        "IFileManager": {
+            "path": "Files/File_1713622127342408_3216654.lsmat"
+        }
+    },
+    "1713622128080330:3216882": {
+        "IResourceController": {
+            "public": {
+                "path": "Customizable_3D_Text_Material.lsmat",
+                "hash": "66bea8ae9abed47d73ed7181e504b2a3"
+            }
+        }
+    }
+}

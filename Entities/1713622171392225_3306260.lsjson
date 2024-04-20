@@ -1,0 +1,39 @@
+{
+    "1713622171389376:3306259": {
+        "IFileManager": {
+            "path": "Files/File_1713622171389376_3306259"
+        }
+    },
+    "1713622171392225:3306260": {
+        "IResourceController": {
+            "name": "Rainbow",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622171392229:3306261",
+            "fileId": "1713622171389376:3306259",
+            "originalId": "1713622171443661:3306267",
+            "publicId": "1713622171734156:3306274",
+            "expected_hash": "875c144e1ddc5fc22d4923660df40e95"
+        },
+        "IResourceManager": {
+            "uid": "1713622171392229:3306261",
+            "name": "Files/File_1713622171389376_3306259",
+            "flags": 1
+        }
+    },
+    "1713622171443661:3306267": {
+        "IFileManager": {
+            "path": "Files/File_1713622171443661_3306267.lsmat"
+        }
+    },
+    "1713622171734156:3306274": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Text Materials/Rainbow.lsmat",
+                "hash": "34c5a888705b542d9fcfe41686978163"
+            }
+        }
+    }
+}

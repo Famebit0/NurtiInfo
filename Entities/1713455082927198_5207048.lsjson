@@ -1,0 +1,23 @@
+{
+    "1713455082926272:5207047": {
+        "IResourceController": {
+            "public": {
+                "path": "VFX/3D/Silhouette_rays/Meshes",
+                "hash": "9ef75b489ef219e9114f30ed054f4913"
+            }
+        }
+    },
+    "1713455082927198:5207048": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713455082926272:5207047",
+            "resources": [
+                "1713455082932463:5207051"
+            ]
+        }
+    }
+}

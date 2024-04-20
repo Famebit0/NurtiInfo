@@ -1,0 +1,79 @@
+{
+    "1713340177460784:3240503": {
+        "IFileManager": {
+            "path": "Files/File_1713340177460784_3240503.pvr"
+        }
+    },
+    "1713340177472073:3240504": {
+        "IResourceController": {
+            "name": "FANTA-FACT (1)",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713340177481779:3240519",
+            "fileId": "1713340177460784:3240503",
+            "originalId": "1713340177482443:3240524",
+            "publicId": "1713340177589152:3240568",
+            "expected_hash": "083024608fa4b955c4d9785709c1a498",
+            "additional": {
+                "originHash": "df2f35123b8529f36d55288cbe5f621c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713340177481779:3240519",
+            "name": "Files/File_1713340177460784_3240503.png",
+            "flags": 1
+        }
+    },
+    "1713340177481779:3240519": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "df2f35123b8529f36d55288cbe5f621c"
+                    },
+                    "v": "1713340192102044:3293287"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "236160",
+                "compressedSize": "29279",
+                "extension": "png",
+                "originalRAM": "1875832",
+                "originalSize": "44706",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713340177492201:3240525"
+        }
+    },
+    "1713340177482443:3240524": {
+        "IFileManager": {
+            "path": "Files/File_1713340177482443_3240524.png"
+        }
+    },
+    "1713340177492201:3240525": {
+        "IFileManager": {
+            "path": "Files/File_1713340177492201_3240525.png"
+        }
+    },
+    "1713340177589152:3240568": {
+        "IResourceController": {
+            "public": {
+                "path": "Fanta/FANTA-FACT (1).png",
+                "hash": "df2f35123b8529f36d55288cbe5f621c"
+            }
+        }
+    },
+    "1713340192102044:3293287": {
+        "IFileManager": {
+            "path": "Files/File_1713340192102044_3293287.pvr"
+        }
+    }
+}

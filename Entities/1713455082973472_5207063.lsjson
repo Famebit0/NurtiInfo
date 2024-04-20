@@ -1,0 +1,23 @@
+{
+    "1713455082972546:5207062": {
+        "IResourceController": {
+            "public": {
+                "path": "VFX/Materials/3D Fog",
+                "hash": "a5184a8f99e8a5289f286ea273539956"
+            }
+        }
+    },
+    "1713455082973472:5207063": {
+        "IResourceController": {
+            "name": "3D Fog",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713455082972546:5207062",
+            "resources": [
+                "1713455083056598:5207073"
+            ]
+        }
+    }
+}

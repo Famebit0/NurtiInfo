@@ -1,0 +1,38 @@
+{
+    "1713156922769075:183406": {
+        "IFileManager": {
+            "path": "Files/File_1713156922769075_183406.js"
+        }
+    },
+    "1713156922775964:183407": {
+        "IResourceController": {
+            "name": "QuadraticFunc",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713156922775996:183408",
+            "fileId": "1713156922769075:183406",
+            "publicId": "1713156922804200:183419",
+            "expected_hash": "e35947508a2cb5aa2e87cf7c00ccb653"
+        },
+        "IResourceManager": {
+            "uid": "1713156922775996:183408",
+            "name": "Files/File_1713156922769075_183406.js",
+            "flags": 1
+        }
+    },
+    "1713156922775996:183408": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1713156922804200:183419": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/QuadraticFunc.js",
+                "hash": "e35947508a2cb5aa2e87cf7c00ccb653"
+            }
+        }
+    }
+}

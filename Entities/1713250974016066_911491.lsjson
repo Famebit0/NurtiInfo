@@ -1,0 +1,79 @@
+{
+    "1713250973998656:911476": {
+        "IFileManager": {
+            "path": "Files/File_1713250973998656_911476.pvr"
+        }
+    },
+    "1713250974016066:911491": {
+        "IResourceController": {
+            "name": "REDBULL-NUTRITIONAL FACTS",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713250974026715:911492",
+            "fileId": "1713250973998656:911476",
+            "originalId": "1713250974027751:911497",
+            "publicId": "1713250974079385:911527",
+            "expected_hash": "e526d114a1a6424b8b0eb9b40146fb96",
+            "additional": {
+                "originHash": "bde4381f7b0f8423915f5e8d71bd98cf"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713250974026715:911492",
+            "name": "Files/File_1713250973998656_911476.png",
+            "flags": 1
+        }
+    },
+    "1713250974026715:911492": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "bde4381f7b0f8423915f5e8d71bd98cf"
+                    },
+                    "v": "1713250988738660:935580"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "213120",
+                "compressedSize": "17279",
+                "extension": "png",
+                "originalRAM": "1696744",
+                "originalSize": "25068",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713250974037925:911500"
+        }
+    },
+    "1713250974027751:911497": {
+        "IFileManager": {
+            "path": "Files/File_1713250974027751_911497.png"
+        }
+    },
+    "1713250974037925:911500": {
+        "IFileManager": {
+            "path": "Files/File_1713250974037925_911500.png"
+        }
+    },
+    "1713250974079385:911527": {
+        "IResourceController": {
+            "public": {
+                "path": "Redbull/REDBULL-NUTRITIONAL FACTS.png",
+                "hash": "bde4381f7b0f8423915f5e8d71bd98cf"
+            }
+        }
+    },
+    "1713250988738660:935580": {
+        "IFileManager": {
+            "path": "Files/File_1713250988738660_935580.pvr"
+        }
+    }
+}

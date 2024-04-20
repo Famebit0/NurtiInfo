@@ -1,0 +1,39 @@
+{
+    "1713622176713686:3308035": {
+        "IFileManager": {
+            "path": "Files/File_1713622176713686_3308035"
+        }
+    },
+    "1713622176716821:3308036": {
+        "IResourceController": {
+            "name": "Brash",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622176716828:3308037",
+            "fileId": "1713622176713686:3308035",
+            "originalId": "1713622176772036:3308043",
+            "publicId": "1713622177084725:3308050",
+            "expected_hash": "2c93d1ef59517c361ed88dd03cbc248c"
+        },
+        "IResourceManager": {
+            "uid": "1713622176716828:3308037",
+            "name": "Files/File_1713622176713686_3308035",
+            "flags": 1
+        }
+    },
+    "1713622176772036:3308043": {
+        "IFileManager": {
+            "path": "Files/File_1713622176772036_3308043.lsmat"
+        }
+    },
+    "1713622177084725:3308050": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Text Materials/Brash.lsmat",
+                "hash": "b610345b6d4fe7d5ccb21b8e8b48d54e"
+            }
+        }
+    }
+}

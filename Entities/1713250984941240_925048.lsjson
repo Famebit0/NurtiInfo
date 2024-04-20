@@ -1,0 +1,79 @@
+{
+    "1713250984922752:925033": {
+        "IFileManager": {
+            "path": "Files/File_1713250984922752_925033.pvr"
+        }
+    },
+    "1713250984941240:925048": {
+        "IResourceController": {
+            "name": "REDBULL-INGREDIENTS",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713250984988590:925063",
+            "fileId": "1713250984922752:925033",
+            "originalId": "1713250984989180:925068",
+            "publicId": "1713250985055496:925098",
+            "expected_hash": "6d5686cdb150d7e2d7f0e9facf6bdefd",
+            "additional": {
+                "originHash": "833298057bff60f5a51e2f4acb3d1e34"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713250984988590:925063",
+            "name": "Files/File_1713250984922752_925033.png",
+            "flags": 1
+        }
+    },
+    "1713250984988590:925063": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "833298057bff60f5a51e2f4acb3d1e34"
+                    },
+                    "v": "1713251002294734:959058"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "150960",
+                "compressedSize": "17924",
+                "extension": "png",
+                "originalRAM": "1207680",
+                "originalSize": "27444",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713250985000030:925079"
+        }
+    },
+    "1713250984989180:925068": {
+        "IFileManager": {
+            "path": "Files/File_1713250984989180_925068.png"
+        }
+    },
+    "1713250985000030:925079": {
+        "IFileManager": {
+            "path": "Files/File_1713250985000030_925079.png"
+        }
+    },
+    "1713250985055496:925098": {
+        "IResourceController": {
+            "public": {
+                "path": "Redbull/REDBULL-INGREDIENTS.png",
+                "hash": "833298057bff60f5a51e2f4acb3d1e34"
+            }
+        }
+    },
+    "1713251002294734:959058": {
+        "IFileManager": {
+            "path": "Files/File_1713251002294734_959058.pvr"
+        }
+    }
+}

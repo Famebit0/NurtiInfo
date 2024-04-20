@@ -1,0 +1,39 @@
+{
+    "1713622178716877:3308636": {
+        "IFileManager": {
+            "path": "Files/File_1713622178716877_3308636"
+        }
+    },
+    "1713622178720567:3308637": {
+        "IResourceController": {
+            "name": "Golden",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622178720574:3308638",
+            "fileId": "1713622178716877:3308636",
+            "originalId": "1713622178785644:3308644",
+            "publicId": "1713622179091710:3308651",
+            "expected_hash": "2c93d1ef59517c361ed88dd03cbc248c"
+        },
+        "IResourceManager": {
+            "uid": "1713622178720574:3308638",
+            "name": "Files/File_1713622178716877_3308636",
+            "flags": 1
+        }
+    },
+    "1713622178785644:3308644": {
+        "IFileManager": {
+            "path": "Files/File_1713622178785644_3308644.lsmat"
+        }
+    },
+    "1713622179091710:3308651": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Text Materials/Golden.lsmat",
+                "hash": "9f3aa7fe59a86242f27d0c88cd3da014"
+            }
+        }
+    }
+}

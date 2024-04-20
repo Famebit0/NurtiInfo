@@ -1,0 +1,80 @@
+{
+    "1713192087068227:2629464": {
+        "IFileManager": {
+            "path": "Files/File_1713192087068227_2629464"
+        }
+    },
+    "1713192087081960:2629465": {
+        "IResourceController": {
+            "name": "MagnifyingGlass",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713192087089755:2629468",
+            "fileId": "1713192087068227:2629464",
+            "originalId": "1713192087103932:2629475",
+            "publicId": "1713192087199109:2629488",
+            "expected_hash": "05f18de12ad1e805e2bc47dcb0c74537",
+            "additional": {
+                "subtype": "5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713192087089755:2629468",
+            "name": "Files/File_1713192087068227_2629464",
+            "flags": 1
+        }
+    },
+    "1713192087089755:2629468": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "4d370abc1c5adfdc06d0df2a5f420533"
+                    },
+                    "v": "1713192151985836:2660295"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "462848",
+                "compressedSize": "300459",
+                "extension": "t3d",
+                "originalRAM": "3698688",
+                "originalSize": "145848",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713192087165315:2629487"
+        }
+    },
+    "1713192087103932:2629475": {
+        "IFileManager": {
+            "path": "Files/File_1713192087103932_2629475"
+        }
+    },
+    "1713192087165315:2629487": {
+        "IFileManager": {
+            "path": "Files/File_1713192087165315_2629487"
+        }
+    },
+    "1713192087199109:2629488": {
+        "IResourceController": {
+            "public": {
+                "path": "Magnifying Hint/Texture/MagnifyingGlass",
+                "hash": "4d370abc1c5adfdc06d0df2a5f420533",
+                "complexResourceHash": "0d1a65dd1d127aaaa382533dbe00d084"
+            }
+        }
+    },
+    "1713192151985836:2660295": {
+        "IFileManager": {
+            "path": "Files/File_1713192151985836_2660295"
+        }
+    }
+}

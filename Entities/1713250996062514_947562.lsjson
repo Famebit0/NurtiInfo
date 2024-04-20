@@ -1,0 +1,79 @@
+{
+    "1713250996048499:947549": {
+        "IFileManager": {
+            "path": "Files/File_1713250996048499_947549.pvr"
+        }
+    },
+    "1713250996062514:947562": {
+        "IResourceController": {
+            "name": "Redbull_Calories",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713250996077686:947565",
+            "fileId": "1713250996048499:947549",
+            "originalId": "1713250996078608:947570",
+            "publicId": "1713250996257122:947642",
+            "expected_hash": "c6c0ec6c9622c105c6595b083833f2e1",
+            "additional": {
+                "originHash": "72928a0a7b88d155ba51e262c5af5a12"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713250996077686:947565",
+            "name": "Files/File_1713250996048499_947549.png",
+            "flags": 1
+        }
+    },
+    "1713250996077686:947565": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "72928a0a7b88d155ba51e262c5af5a12"
+                    },
+                    "v": "1713251016721559:974069"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "495216",
+                "compressedSize": "27681",
+                "extension": "png",
+                "originalRAM": "3958992",
+                "originalSize": "46446",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713250996093487:947573"
+        }
+    },
+    "1713250996078608:947570": {
+        "IFileManager": {
+            "path": "Files/File_1713250996078608_947570.png"
+        }
+    },
+    "1713250996093487:947573": {
+        "IFileManager": {
+            "path": "Files/File_1713250996093487_947573.png"
+        }
+    },
+    "1713250996257122:947642": {
+        "IResourceController": {
+            "public": {
+                "path": "Redbull/Redbull_Calories.png",
+                "hash": "72928a0a7b88d155ba51e262c5af5a12"
+            }
+        }
+    },
+    "1713251016721559:974069": {
+        "IFileManager": {
+            "path": "Files/File_1713251016721559_974069.pvr"
+        }
+    }
+}

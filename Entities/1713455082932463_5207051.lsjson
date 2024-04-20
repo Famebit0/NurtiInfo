@@ -1,0 +1,115 @@
+{
+    "1713455082928029:5207049": {
+        "IResourceController": {
+            "public": {
+                "path": "VFX/3D/Silhouette_rays/Meshes/Silhouette_rays.mesh",
+                "hash": "6b848b5b102ce71f5d215dfe18010ff8"
+            }
+        }
+    },
+    "1713455082928577:5207050": {
+        "IFileManager": {
+            "path": "Files/File_1713455082928577_5207050.mesh"
+        }
+    },
+    "1713455082932463:5207051": {
+        "IResourceController": {
+            "name": "Silhouette_rays",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713455082953778:5207053",
+            "fileId": "1713455082928577:5207050",
+            "publicId": "1713455082928029:5207049",
+            "expected_hash": "6b848b5b102ce71f5d215dfe18010ff8",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713455082953778:5207053",
+            "name": "Files/File_1713455082928577_5207050.mesh",
+            "flags": 1
+        }
+    },
+    "1713455082953778:5207053": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "7656",
+                "compressedSize": "5778",
+                "extension": "mesh",
+                "originalRAM": "7656",
+                "originalSize": "5778",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1713455082959140:5207059"
+        }
+    },
+    "1713455082959140:5207059": {
+        "IFileManager": {
+            "path": "Files/File_1713455082959140_5207059.mesh"
+        }
+    }
+}

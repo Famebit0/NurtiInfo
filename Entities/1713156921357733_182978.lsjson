@@ -1,0 +1,22 @@
+{
+    "1713156921357733:182978": {
+        "IResourceController": {
+            "name": "Legacy",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713156921358140:182979",
+            "resources": [
+                "1713156921322776:182965"
+            ]
+        }
+    },
+    "1713156921358140:182979": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/TweenTypes/Legacy"
+            }
+        }
+    }
+}

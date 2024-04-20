@@ -1,0 +1,38 @@
+{
+    "1713622180876621:3309747": {
+        "IFileManager": {
+            "path": "Files/File_1713622180876621_3309747.js"
+        }
+    },
+    "1713622180886114:3309748": {
+        "IResourceController": {
+            "name": "LICENSE",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622180886155:3309749",
+            "fileId": "1713622180876621:3309747",
+            "publicId": "1713622180891538:3309756",
+            "expected_hash": "eab5a11a66864fc54efe39abc2aced93"
+        },
+        "IResourceManager": {
+            "uid": "1713622180886155:3309749",
+            "name": "Files/File_1713622180876621_3309747.js",
+            "flags": 1
+        }
+    },
+    "1713622180886155:3309749": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1713622180891538:3309756": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles/LICENSE.js",
+                "hash": "eab5a11a66864fc54efe39abc2aced93"
+            }
+        }
+    }
+}

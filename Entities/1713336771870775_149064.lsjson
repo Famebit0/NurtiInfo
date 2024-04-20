@@ -1,0 +1,33 @@
+{
+    "1713336771852370:149051": {
+        "IFileManager": {
+            "path": "Files/File_1713336771852370_149051.mp3"
+        }
+    },
+    "1713336771870775:149064": {
+        "IResourceController": {
+            "name": "happy-pop-2-185287",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713336771870840:149065",
+            "fileId": "1713336771852370:149051",
+            "publicId": "1713336771876366:149070",
+            "expected_hash": "fa9ab470ef8c7d83238f29072bf00bfd"
+        },
+        "IResourceManager": {
+            "uid": "1713336771870840:149065",
+            "name": "Files/File_1713336771852370_149051.mp3",
+            "flags": 1
+        }
+    },
+    "1713336771876366:149070": {
+        "IResourceController": {
+            "public": {
+                "path": "happy-pop-2-185287.mp3",
+                "hash": "fa9ab470ef8c7d83238f29072bf00bfd"
+            }
+        }
+    }
+}

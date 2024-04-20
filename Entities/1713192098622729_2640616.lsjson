@@ -1,0 +1,22 @@
+{
+    "1713192098622729:2640616": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713192098623098:2640617",
+            "resources": [
+                "1713192098490427:2640434"
+            ]
+        }
+    },
+    "1713192098623098:2640617": {
+        "IResourceController": {
+            "public": {
+                "path": "Cross Hint/Textures"
+            }
+        }
+    }
+}

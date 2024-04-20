@@ -1,0 +1,22 @@
+{
+    "1713156928157996:184140": {
+        "IResourceController": {
+            "name": "TweenImageTextures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713156928158653:184141",
+            "resources": [
+                "1713156928106172:184124"
+            ]
+        }
+    },
+    "1713156928158653:184141": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/ExampleResources [REMOVE_ME]/Textures/TweenImageTextures"
+            }
+        }
+    }
+}

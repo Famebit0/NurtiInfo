@@ -1,0 +1,23 @@
+{
+    "1713192098792779:2640672": {
+        "IResourceController": {
+            "name": "Mark",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713192098793018:2640673",
+            "resources": [
+                "1713192098793987:2640674",
+                "1713192099632601:2640757"
+            ]
+        }
+    },
+    "1713192098793018:2640673": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Mark"
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1713203838387246:6181986": {
+        "IFileManager": {
+            "path": "Files/File_1713203838387246_6181986.pvr"
+        }
+    },
+    "1713203838395604:6182001": {
+        "IResourceController": {
+            "name": "NUTRITIONAL FACTS",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713203838406751:6182002",
+            "fileId": "1713203838387246:6181986",
+            "originalId": "1713203838407386:6182007",
+            "publicId": "1713203838462500:6182037",
+            "expected_hash": "0bf1daf127d52ab65c4df9fdd0a1ec5e",
+            "additional": {
+                "originHash": "fd71aae4a68b81687541b50981a3a09f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713203838406751:6182002",
+            "name": "Files/File_1713203838387246_6181986.png",
+            "flags": 1
+        }
+    },
+    "1713203838406751:6182002": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "fd71aae4a68b81687541b50981a3a09f"
+                    },
+                    "v": "1713203851134667:6188612"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "213120",
+                "compressedSize": "17608",
+                "extension": "png",
+                "originalRAM": "1699040",
+                "originalSize": "25321",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713203838421257:6182008"
+        }
+    },
+    "1713203838407386:6182007": {
+        "IFileManager": {
+            "path": "Files/File_1713203838407386_6182007.png"
+        }
+    },
+    "1713203838421257:6182008": {
+        "IFileManager": {
+            "path": "Files/File_1713203838421257_6182008.png"
+        }
+    },
+    "1713203838462500:6182037": {
+        "IResourceController": {
+            "public": {
+                "path": "Pepsi/NUTRITIONAL FACTS.png",
+                "hash": "fd71aae4a68b81687541b50981a3a09f"
+            }
+        }
+    },
+    "1713203851134667:6188612": {
+        "IFileManager": {
+            "path": "Files/File_1713203851134667_6188612.pvr"
+        }
+    }
+}

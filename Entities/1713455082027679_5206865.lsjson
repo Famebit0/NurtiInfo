@@ -1,0 +1,39 @@
+{
+    "1713455082026870:5206860": {
+        "IResourceController": {
+            "public": {
+                "path": "Box 2.oprfb",
+                "hash": "d2269e95c0491d4ba17f655d839d78c8"
+            }
+        }
+    },
+    "1713455082027679:5206865": {
+        "IResourceController": {
+            "name": "Box 2",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713455082027639:5206862",
+            "fileId": "1713455082061896:5206869",
+            "originalId": "1713455089662880:5207620",
+            "publicId": "1713455082026870:5206860",
+            "expected_hash": "993734670817b9dda59df18fd7ef17d2"
+        },
+        "IResourceManager": {
+            "uid": "1713455082027639:5206862",
+            "name": "sceneObject_1",
+            "flags": 0
+        }
+    },
+    "1713455082061896:5206869": {
+        "IFileManager": {
+            "path": "Files/File_1713455082061896_5206869.oprfb"
+        }
+    },
+    "1713455089662880:5207620": {
+        "IFileManager": {
+            "path": "Files/File_1713455089662880_5207620.oprfb"
+        }
+    }
+}

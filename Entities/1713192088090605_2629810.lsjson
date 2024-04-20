@@ -1,0 +1,22 @@
+{
+    "1713192088090605:2629810": {
+        "IResourceController": {
+            "name": "Script",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713192088090929:2629812",
+            "resources": [
+                "1713192088070590:2629799"
+            ]
+        }
+    },
+    "1713192088090929:2629812": {
+        "IResourceController": {
+            "public": {
+                "path": "Magnifying Hint/Script"
+            }
+        }
+    }
+}

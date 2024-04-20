@@ -1,0 +1,80 @@
+{
+    "1713192088115768:2629826": {
+        "IFileManager": {
+            "path": "Files/File_1713192088115768_2629826.pvr"
+        }
+    },
+    "1713192088118271:2629827": {
+        "IResourceController": {
+            "name": "Snapinsta",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713192088119438:2629828",
+            "fileId": "1713192088115768:2629826",
+            "originalId": "1713192088119998:2629833",
+            "publicId": "1713192088167070:2629842",
+            "expected_hash": "2764923ee09f9282b0a8e74c297e41b2",
+            "additional": {
+                "originHash": "2c74cea692db20bfc0c720edece820f5",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713192088119438:2629828",
+            "name": "Files/File_1713192088115768_2629826.jpg",
+            "flags": 1
+        }
+    },
+    "1713192088119438:2629828": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "2c74cea692db20bfc0c720edece820f5"
+                    },
+                    "v": "1713192139047066:2652726"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "583200",
+                "compressedSize": "483751",
+                "extension": "jpg",
+                "originalRAM": "4665600",
+                "originalSize": "239813",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713192088139861:2629841"
+        }
+    },
+    "1713192088119998:2629833": {
+        "IFileManager": {
+            "path": "Files/File_1713192088119998_2629833.jpg"
+        }
+    },
+    "1713192088139861:2629841": {
+        "IFileManager": {
+            "path": "Files/File_1713192088139861_2629841.jpg"
+        }
+    },
+    "1713192088167070:2629842": {
+        "IResourceController": {
+            "public": {
+                "path": "Snapinsta.jpg",
+                "hash": "2c74cea692db20bfc0c720edece820f5"
+            }
+        }
+    },
+    "1713192139047066:2652726": {
+        "IFileManager": {
+            "path": "Files/File_1713192139047066_2652726.pvr"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "1713158629580763:511248": {
+        "IFileManager": {
+            "path": "Files/File_1713158629580763_511248.js"
+        }
+    },
+    "1713158629583648:511249": {
+        "IResourceController": {
+            "name": "UIWidgetsModule_120",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1713158629583669:511250",
+            "fileId": "1713158629580763:511248",
+            "expected_hash": "957407c93b0fc07e99e805701f952f97"
+        },
+        "IResourceManager": {
+            "uid": "1713158629583669:511250",
+            "name": "Files/File_1713158629580763_511248.js",
+            "flags": 1
+        }
+    },
+    "1713158629583669:511250": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1713455082881396:5207032": {
+        "IResourceController": {
+            "public": {
+                "path": "VFX/3D/Flipped_rays/Meshes",
+                "hash": "859d2ed62cac1265a445fa135ad4a981"
+            }
+        }
+    },
+    "1713455082882243:5207033": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713455082881396:5207032",
+            "resources": [
+                "1713455082886868:5207036"
+            ]
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1713622173162074:3306815": {
+        "IFileManager": {
+            "path": "Files/File_1713622173162074_3306815.ttf"
+        }
+    },
+    "1713622173166479:3306816": {
+        "IResourceController": {
+            "name": "AlfaSlabOne-Regular",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622173166505:3306817",
+            "fileId": "1713622173162074:3306815",
+            "publicId": "1713622173186540:3306829",
+            "expected_hash": "7676beb2b1f19eec709feed096327d21"
+        },
+        "IResourceManager": {
+            "uid": "1713622173166505:3306817",
+            "name": "Files/File_1713622173162074_3306815.ttf",
+            "flags": 1
+        }
+    },
+    "1713622173186540:3306829": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Fonts/AlfaSlabOne-Regular.ttf",
+                "hash": "7676beb2b1f19eec709feed096327d21"
+            }
+        }
+    }
+}

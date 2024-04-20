@@ -1,0 +1,39 @@
+{
+    "1713622174029576:3307205": {
+        "IFileManager": {
+            "path": "Files/File_1713622174029576_3307205"
+        }
+    },
+    "1713622174032301:3307206": {
+        "IResourceController": {
+            "name": "GreenWhite",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622174032307:3307207",
+            "fileId": "1713622174029576:3307205",
+            "originalId": "1713622174083758:3307213",
+            "publicId": "1713622174416148:3307220",
+            "expected_hash": "2c93d1ef59517c361ed88dd03cbc248c"
+        },
+        "IResourceManager": {
+            "uid": "1713622174032307:3307207",
+            "name": "Files/File_1713622174029576_3307205",
+            "flags": 1
+        }
+    },
+    "1713622174083758:3307213": {
+        "IFileManager": {
+            "path": "Files/File_1713622174083758_3307213.lsmat"
+        }
+    },
+    "1713622174416148:3307220": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Text Materials/GreenWhite.lsmat",
+                "hash": "fc907da62a4b9fe7b8f4b9b6d3dba6b1"
+            }
+        }
+    }
+}

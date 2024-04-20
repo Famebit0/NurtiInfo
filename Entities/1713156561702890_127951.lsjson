@@ -1,0 +1,39 @@
+{
+    "1713156561699635:127950": {
+        "IFileManager": {
+            "path": "Files/File_1713156561699635_127950"
+        }
+    },
+    "1713156561702890:127951": {
+        "IResourceController": {
+            "name": "Transition_Mat__EDIT_ME_",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713156561702906:127952",
+            "fileId": "1713156561699635:127950",
+            "originalId": "1713156561758737:127966",
+            "publicId": "1713156562764184:128260",
+            "expected_hash": "9164649f307980296f9c3ff9cf4f4c5b"
+        },
+        "IResourceManager": {
+            "uid": "1713156561702906:127952",
+            "name": "Files/File_1713156561699635_127950",
+            "flags": 1
+        }
+    },
+    "1713156561758737:127966": {
+        "IFileManager": {
+            "path": "Files/File_1713156561758737_127966.lsmat"
+        }
+    },
+    "1713156562764184:128260": {
+        "IResourceController": {
+            "public": {
+                "path": "Transition_Mat__EDIT_ME_.lsmat",
+                "hash": "d8f9f42f08c3606156590bc0914df225"
+            }
+        }
+    }
+}

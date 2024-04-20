@@ -1,0 +1,79 @@
+{
+    "1713339610165121:2576348": {
+        "IFileManager": {
+            "path": "Files/File_1713339610165121_2576348.pvr"
+        }
+    },
+    "1713339610180634:2576351": {
+        "IResourceController": {
+            "name": "REDBULL-FUNFACT (1)",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713339610191705:2576352",
+            "fileId": "1713339610165121:2576348",
+            "originalId": "1713339610192603:2576357",
+            "publicId": "1713339610257228:2576387",
+            "expected_hash": "f7ca5924f4dcc350a44f9b9eacf8ebc2",
+            "additional": {
+                "originHash": "c26971e0b12239c6d0d5886befbda600"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713339610191705:2576352",
+            "name": "Files/File_1713339610165121_2576348.png",
+            "flags": 1
+        }
+    },
+    "1713339610191705:2576352": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "c26971e0b12239c6d0d5886befbda600"
+                    },
+                    "v": "1713339653529320:2609747"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "152440",
+                "compressedSize": "18660",
+                "extension": "png",
+                "originalRAM": "1210640",
+                "originalSize": "28001",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713339610205935:2576372"
+        }
+    },
+    "1713339610192603:2576357": {
+        "IFileManager": {
+            "path": "Files/File_1713339610192603_2576357.png"
+        }
+    },
+    "1713339610205935:2576372": {
+        "IFileManager": {
+            "path": "Files/File_1713339610205935_2576372.png"
+        }
+    },
+    "1713339610257228:2576387": {
+        "IResourceController": {
+            "public": {
+                "path": "Redbull/REDBULL-FUNFACT (1).png",
+                "hash": "c26971e0b12239c6d0d5886befbda600"
+            }
+        }
+    },
+    "1713339653529320:2609747": {
+        "IFileManager": {
+            "path": "Files/File_1713339653529320_2609747.pvr"
+        }
+    }
+}

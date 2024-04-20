@@ -1,0 +1,39 @@
+{
+    "1713622175368678:3307588": {
+        "IFileManager": {
+            "path": "Files/File_1713622175368678_3307588"
+        }
+    },
+    "1713622175371445:3307589": {
+        "IResourceController": {
+            "name": "Beach",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713622175371451:3307590",
+            "fileId": "1713622175368678:3307588",
+            "originalId": "1713622175413216:3307596",
+            "publicId": "1713622175731797:3307603",
+            "expected_hash": "2c93d1ef59517c361ed88dd03cbc248c"
+        },
+        "IResourceManager": {
+            "uid": "1713622175371451:3307590",
+            "name": "Files/File_1713622175368678_3307588",
+            "flags": 1
+        }
+    },
+    "1713622175413216:3307596": {
+        "IFileManager": {
+            "path": "Files/File_1713622175413216_3307596.lsmat"
+        }
+    },
+    "1713622175731797:3307603": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Text Styles Resources/Text Materials/Beach.lsmat",
+                "hash": "164eb71d86d220eb3c4a218367ae6681"
+            }
+        }
+    }
+}
