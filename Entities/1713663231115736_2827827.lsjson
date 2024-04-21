@@ -1,0 +1,79 @@
+{
+    "1713663231104562:2827824": {
+        "IFileManager": {
+            "path": "Files/File_1713663231104562_2827824.pvr"
+        }
+    },
+    "1713663231115736:2827827": {
+        "IResourceController": {
+            "name": "FUNFACT-Bisleri2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713663231128017:2827828",
+            "fileId": "1713663231104562:2827824",
+            "originalId": "1713663231128641:2827833",
+            "publicId": "1713663231198690:2827867",
+            "expected_hash": "5930dab388664af88ee5df98d02baa95",
+            "additional": {
+                "originHash": "abfff59a8f8c350a51053089519538da"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713663231128017:2827828",
+            "name": "Files/File_1713663231104562_2827824.png",
+            "flags": 1
+        }
+    },
+    "1713663231128017:2827828": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "abfff59a8f8c350a51053089519538da"
+                    },
+                    "v": "1713663253533348:2908027"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "215912",
+                "compressedSize": "24331",
+                "extension": "png",
+                "originalRAM": "1720992",
+                "originalSize": "37298",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713663231141683:2827834"
+        }
+    },
+    "1713663231128641:2827833": {
+        "IFileManager": {
+            "path": "Files/File_1713663231128641_2827833.png"
+        }
+    },
+    "1713663231141683:2827834": {
+        "IFileManager": {
+            "path": "Files/File_1713663231141683_2827834.png"
+        }
+    },
+    "1713663231198690:2827867": {
+        "IResourceController": {
+            "public": {
+                "path": "FUNFACT-Bisleri2.png",
+                "hash": "abfff59a8f8c350a51053089519538da"
+            }
+        }
+    },
+    "1713663253533348:2908027": {
+        "IFileManager": {
+            "path": "Files/File_1713663253533348_2908027.pvr"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1713661795286082:631691": {
+        "IResourceController": {
+            "name": "Left or Right Hand Detection Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713661795286540:631692",
+            "resources": [
+                "1713661795288327:631693"
+            ]
+        }
+    },
+    "1713661795286540:631692": {
+        "IResourceController": {
+            "public": {
+                "path": "Left or Right Hand Detection Resources"
+            }
+        }
+    }
+}

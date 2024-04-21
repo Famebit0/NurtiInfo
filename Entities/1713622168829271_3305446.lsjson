@@ -15,7 +15,7 @@
             "fileId": "1713622168820120:3305445",
             "originalId": "1713622168898724:3305453",
             "publicId": "1713622169349000:3305464",
-            "expected_hash": "2c93d1ef59517c361ed88dd03cbc248c"
+            "expected_hash": "5b7433a24b1116a2c1900af3fced97a6"
         },
         "IResourceManager": {
             "uid": "1713622168829277:3305447",
@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "3D Text Styles Resources/Text Materials/YellowBlack.lsmat",
-                "hash": "2162d6085ddd84cc3a8e8c247e389307"
+                "hash": "172e81da131594293d1fc64adb2a6970"
             }
         }
     }

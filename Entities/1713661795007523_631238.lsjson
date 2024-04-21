@@ -1,0 +1,39 @@
+{
+    "1713661795007523:631238": {
+        "IResourceController": {
+            "name": "LeftRightHandDetection__PUT_IN_ORTHO_CAM",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713661795007444:631235",
+            "fileId": "1713661795085627:631270",
+            "originalId": "1713663757800995:3440161",
+            "publicId": "1713661795363662:632170",
+            "expected_hash": "f2ddc8c8bbba3b37eac796ca63a79850"
+        },
+        "IResourceManager": {
+            "uid": "1713661795007444:631235",
+            "name": "sceneObject_55",
+            "flags": 0
+        }
+    },
+    "1713661795085627:631270": {
+        "IFileManager": {
+            "path": "Files/File_1713661795085627_631270.oprfb"
+        }
+    },
+    "1713661795363662:632170": {
+        "IResourceController": {
+            "public": {
+                "path": "LeftRightHandDetection__PUT_IN_ORTHO_CAM.oprfb",
+                "hash": "524fcf4a7e8bbb27d7162ac029cfae75"
+            }
+        }
+    },
+    "1713663757800995:3440161": {
+        "IFileManager": {
+            "path": "Files/File_1713663757800995_3440161.oprfb"
+        }
+    }
+}

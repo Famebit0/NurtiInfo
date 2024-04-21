@@ -1,0 +1,38 @@
+{
+    "1713661795321466:631710": {
+        "IFileManager": {
+            "path": "Files/File_1713661795321466_631710.js"
+        }
+    },
+    "1713661795327921:631711": {
+        "IResourceController": {
+            "name": "ExampleScript",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713661795327967:631712",
+            "fileId": "1713661795321466:631710",
+            "publicId": "1713661795344539:631724",
+            "expected_hash": "afaa6bb0aaf5c405a5d46c0975fb9452"
+        },
+        "IResourceManager": {
+            "uid": "1713661795327967:631712",
+            "name": "Files/File_1713661795321466_631710.js",
+            "flags": 1
+        }
+    },
+    "1713661795327967:631712": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1713661795344539:631724": {
+        "IResourceController": {
+            "public": {
+                "path": "Left or Right Hand Detection Resources/Scripts/ExampleScript.js",
+                "hash": "afaa6bb0aaf5c405a5d46c0975fb9452"
+            }
+        }
+    }
+}

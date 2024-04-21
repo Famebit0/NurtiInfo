@@ -1,0 +1,38 @@
+{
+    "1713661795270152:631679": {
+        "IFileManager": {
+            "path": "Files/File_1713661795270152_631679.js"
+        }
+    },
+    "1713661795274918:631680": {
+        "IResourceController": {
+            "name": "LRHand",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713661795275008:631681",
+            "fileId": "1713661795270152:631679",
+            "publicId": "1713661795295306:631695",
+            "expected_hash": "18ef072cea44d9384d9a716e9c52c787"
+        },
+        "IResourceManager": {
+            "uid": "1713661795275008:631681",
+            "name": "Files/File_1713661795270152_631679.js",
+            "flags": 1
+        }
+    },
+    "1713661795275008:631681": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1713661795295306:631695": {
+        "IResourceController": {
+            "public": {
+                "path": "Left or Right Hand Detection Resources/Scripts/LRHand.js",
+                "hash": "18ef072cea44d9384d9a716e9c52c787"
+            }
+        }
+    }
+}
